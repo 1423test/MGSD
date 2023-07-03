@@ -1,0 +1,3463 @@
+n01747885	P527	3D radar
+n10267311	P527	9th Wonder
+n10464542	P527	abrasion
+n03188725	P527	absorbent pad
+n03277149	P527	accelerating voltage
+n04576002	P527	accoudoir
+n02675219	P527	acetyl
+n02726210	P527	Achaemenid column
+n00433802	P527	acrobatic gymnastics
+n08456347	P527	Act of the Parliament of the United Kingdom
+n01747885	P527	active electronically scanned array
+n04192238	P527	active protection
+n06453849	P527	Acts of the Apostles
+n06473168	P527	adaptation right
+n10191613	P527	addend
+n10464542	P527	adhesion
+n02680337	P527	adhesive
+n13096035	P527	adipose tissue
+n02680512	P527	adit entrance
+n03612965	P527	aditus to mastoid antrum
+n03768132	P527	administration
+n06534548	P527	administrative law
+n09772448	P527	adoptive father
+n09772448	P527	adoptive mother
+n02962200	P527	aerial parts
+n00433802	P527	aerobic gymnastics
+n07983856	P527	Æsir
+n07643764	P527	agar
+n10373801	P527	Agent (film)
+n08075287	P527	agricultural science
+n04310018	P527	aircraft canopy
+n02692232	P527	airport infrastructure
+n03813078	P527	aisle
+n09705287	P527	Aja people
+n10616899	P527	Aketo
+n02111626	P527	Akihiro Tamura
+n03098688	P527	alarm device
+n03923801	P527	album cover
+n11552133	P527	algae
+n07589458	P527	Allium cepa
+n07585758	P527	Allium cepa
+n07872593	P527	Allium cepa
+n07873464	P527	Allium cepa
+n07585758	P527	Allium sativum
+n09785042	P527	Ally
+n09785042	P527	Ally
+n07608245	P527	almond meal
+n07583978	P527	alphabet pasta
+n01397114	P527	aluminium
+n06327870	P527	Álvaro López
+n00445802	P527	amateur boxing
+n08428623	P527	Ambrosia Parsley
+n01392380	P527	Ameblo
+n10420031	P527	amen
+n09718217	P527	American Japanese
+n06449735	P527	Amos
+n07904760	P527	Amsterdam
+n14722738	P527	amygdule
+n07566863	P527	amylose
+n10068928	P527	Ana Johnsson
+n10474064	P527	Ana Octarina
+n06277280	P527	analog video recording
+n09635973	P527	Anatolian
+n07993109	P527	anatomy
+n04964586	P527	Anders Odden
+n03705379	P527	Andrew Tompkins
+n02701260	P527	Andy Fairweather Low
+n04201845	P527	Andy McCoy
+n01910747	P527	Andy Sturmer
+n07916437	P527	Angostura bitters
+n07966421	P527	animal migration
+n07813107	P527	anion
+n07910538	P527	anise seed
+n03654826	P527	ankle
+n09705287	P527	Anlo Ewe people
+n04484432	P527	anode
+n01903631	P527	anteclypeus
+n04419642	P527	antenna
+n04472726	P527	antenna
+n11675096	P527	anther
+n03589220	P527	Anthony Reynolds
+n07595914	P527	anticaking agent
+n10377291	P527	Apollo Papathanasio
+n07924366	P527	apple
+n03882346	P527	appliance
+n07824268	P527	apricot
+n02732072	P527	aquatic animal
+n07993109	P527	archaeobiology
+n02734725	P527	architectural structure
+n06592991	P527	archival depository
+n08173289	P527	Argentina
+n01997119	P527	Arges
+n10477955	P527	arithmetic logic unit
+n09635973	P527	Armenian
+n03975788	P527	Armenian
+n04387095	P527	armor
+n03325403	P527	armrest
+n07859583	P527	aroma compound
+n02880393	P527	arrow
+n02742753	P527	arrowhead
+n06589574	P527	article
+n03290771	P527	article
+n06533648	P527	Article Five of the United States Constitution
+n06533648	P527	Article Four of the United States Constitution
+n06533648	P527	Article One of the United States Constitution
+n06533648	P527	Article Seven of the United States Constitution
+n06533648	P527	Article Six of the United States Constitution
+n06533648	P527	Article Three of the United States Constitution
+n06533648	P527	Article Two of the United States Constitution
+n00433802	P527	artistic gymnastics
+n03679986	P527	ascent
+n08172695	P527	Asia
+n03208556	P527	A-side
+n07570720	P527	assimilation
+n09208496	P527	asterisk
+n07983856	P527	Ásynjur
+n09358226	P527	Atmosphere of the Moon
+n01630284	P527	atmosphere of Triton
+n04456276	P527	Attila Csihar
+n10417424	P527	attitude
+n04262678	P527	audio content
+n04262678	P527	audio recording
+n04262678	P527	audio signal
+n03923801	P527	audio track
+n03612965	P527	auditory ossicle
+n13133613	P527	auricular cartilage
+n13133613	P527	auricular ligament
+n10335563	P527	auricular muscle
+n08172695	P527	Austria
+n09747722	P527	Austrian German
+n02421449	P527	Automake
+n03629100	P527	Autonomous Administration of North and East Syria
+n07690892	P527	Avena sativa
+n10185327	P527	avocado
+n02764044	P527	axe handle
+n04575824	P527	axle
+n10043643	P527	Bachelor of Economics
+n10281637	P527	Bachu Khan Langa
+n03325403	P527	backrest
+n07696839	P527	bacon
+n07873348	P527	bacon
+n07862244	P527	bacon
+n04155310	P527	bag
+n02758134	P527	balcony
+n02758134	P527	balcony
+n02913152	P527	balcony
+n09684609	P527	Balinese Hinduism
+n12778219	P527	ball
+n06268096	P527	ball game
+n09635973	P527	Balto-Slavic
+n07616748	P527	banana
+n02784124	P527	banana
+n07684938	P527	banana
+n04168541	P527	Banks of the Seine
+n02387346	P527	Baranduin
+n02611294	P527	Barbu
+n10281637	P527	Barkat Khan Langa
+n07588688	P527	barley
+n07886849	P527	barley
+n07584859	P527	barley
+n07803213	P527	barley
+n04387400	P527	Bart van Poppel
+n03935883	P527	base
+n05443484	P527	base pair
+n02913152	P527	basement
+n07832416	P527	basil
+n07592768	P527	basil
+n02768114	P527	basket
+n00479734	P527	basketball coach
+n02926188	P527	basketball net
+n00479734	P527	basketball player
+n07690739	P527	batter
+n03196062	P527	battery
+n03642806	P527	battery
+n04417809	P527	battlefield
+n10236842	P527	BDSM
+n03988926	P527	beam
+n07589543	P527	bean
+n07881625	P527	bean
+n02817516	P527	bearskin
+n10183931	P527	Beautie
+n07837630	P527	béchamel sauce
+n07870167	P527	béchamel sauce
+n07872593	P527	béchamel sauce
+n07877675	P527	beef
+n07808675	P527	beef
+n10702483	P527	beef
+n07878145	P527	beef
+n07879174	P527	beef
+n07593004	P527	beef
+n07879560	P527	beef
+n07875926	P527	beef
+n07862611	P527	beef tenderloin
+n10295479	P527	behavior
+n08173289	P527	Belgium
+n08173165	P527	Belize
+n02826886	P527	bell
+n02826886	P527	bell chamber
+n07824702	P527	bell pepper
+n07733394	P527	bell pepper
+n07592768	P527	bell pepper
+n07878647	P527	bell pepper
+n09684609	P527	Bengali Hindus
+n01919385	P527	Beroe
+n01919385	P527	Beroe
+n01919385	P527	Beroe
+n01919385	P527	Beroe
+n10498046	P527	best friend
+n10148165	P527	best man
+n07907943	P527	beta-fructofuranosidase
+n02424305	P527	Betty Black
+n05448149	P527	Bglap2
+n07812046	P527	Bibernelle
+n02836035	P527	bicycle hub
+n02836035	P527	bicycle rim
+n02836035	P527	bicycle spoke
+n02836035	P527	bicycle tire
+n09702836	P527	Biff Byford
+n10267311	P527	Big Pooh
+n10300654	P527	Bill Laswell
+n01600657	P527	Billie Koppel
+n08386365	P527	billionaire
+n14931795	P527	binary operation
+n09747722	P527	binder
+n07639069	P527	biodiversity loss
+n10260706	P527	biographic information
+n00004475	P527	biological component
+n10129825	P527	biological daughter
+n10332861	P527	biological mother
+n10602985	P527	biological sister
+n10624074	P527	biological son
+n07993109	P527	biology of colour
+n10616899	P527	Blacko
+n13131883	P527	blade
+n04213353	P527	blade
+n02764044	P527	blade
+n03624134	P527	blade
+n04283585	P527	blade
+n03349367	P527	blade
+n03020692	P527	blade
+n04332074	P527	blade
+n04158250	P527	blade
+n11723452	P527	Blaze Bayley
+n03268918	P527	Blood Ceremony's albums in chronological order
+n07833672	P527	blue cheese
+n10053808	P527	blue-collar worker
+n03752071	P527	Bluedelic+
+n02041678	P527	Bo Madsen
+n03790230	P527	boat
+n04610013	P527	Bobby Birdman
+n06270541	P527	Bobby Brown
+n04372756	P527	Bobby DeBarge
+n10732521	P527	Bobby Mathews
+n03467517	P527	body
+n06268096	P527	body of an article
+n02893608	P527	body of stomach
+n09725402	P527	Bokmål
+n04154152	P527	bolt
+n08075388	P527	Bon Scott
+n12110778	P527	Bondville
+n06449735	P527	Book of Daniel
+n06449735	P527	Book of Esther
+n06449735	P527	Book of Ezra
+n06449735	P527	Book of Haggai
+n06449735	P527	Book of Hosea
+n06449735	P527	Book of Job
+n06449735	P527	Book of Joel
+n06449735	P527	Book of Jonah
+n06449735	P527	Book of Malachi
+n06449735	P527	Book of Micah
+n06449735	P527	Book of Nehemiah
+n06449735	P527	Book of Zechariah
+n06449735	P527	Book of Zephaniah
+n02870880	P527	bookshelf
+n07993109	P527	botany
+n02926188	P527	botched police raid
+n07935737	P527	bottle
+n03781055	P527	bottle
+n04557648	P527	bottle cap
+n02878107	P527	bottling line
+n07916437	P527	bourbon whiskey
+n03238879	P527	boutonnière
+n02951358	P527	bow
+n02880393	P527	bow
+n02758134	P527	box
+n09622745	P527	boyfriend
+n02964389	P527	Brad Corrigan
+n14700594	P527	bran
+n04373894	P527	Brand (Region Hannover)
+n04586932	P527	brass instrument
+n03673450	P527	brassiere
+n08173289	P527	Brazil
+n07868955	P527	bread
+n07610890	P527	bread
+n07695965	P527	bread
+n07697100	P527	bread
+n07868200	P527	bread
+n07689757	P527	bread
+n07696625	P527	bread
+n07585758	P527	bread
+n07682197	P527	bread
+n07682808	P527	bread
+n07866868	P527	bread
+n07577772	P527	bread
+n07618587	P527	bread crumbs
+n07864756	P527	bread crumbs
+n03948459	P527	breechblock
+n04090263	P527	breechblock
+n06422144	P527	Bremgarten cementery
+n04233960	P527	Brendan Kelly
+n13133613	P527	brewing
+n03796974	P527	Brian Cook
+n09704283	P527	Brian Johnson
+n10356066	P527	bride
+n04536866	P527	bridge
+n03095699	P527	bridge
+n07867164	P527	broad bean
+n06473168	P527	broadcasting rights
+n01997119	P527	Brontes
+n07583197	P527	broth
+n07583978	P527	broth
+n07605804	P527	brown sugar
+n07600394	P527	brown sugar
+n07596452	P527	Brown Sugar
+n03220692	P527	Bruce Gilbert
+n04311595	P527	Bruce Springsteen
+n03885410	P527	brush
+n03991837	P527	brush
+n03273061	P527	brush
+n04241573	P527	brush
+n11552133	P527	bryophyte
+n03208556	P527	B-side
+n02409038	P527	Bubalus depressicornis
+n02769290	P527	bucket
+n09617292	P527	bucket
+n02909870	P527	bucket handle
+n02387346	P527	Buckland
+n02914991	P527	building
+n08172695	P527	Bulgaria
+n07922607	P527	bullet jacket
+n07697313	P527	bun
+n09406198	P527	Bussard ramjet
+n07711569	P527	butter
+n12145477	P527	butter
+n07694659	P527	butter
+n07621976	P527	butter
+n07837362	P527	butter
+n07830690	P527	butter
+n07864756	P527	butter
+n07871234	P527	butter
+n03238879	P527	button
+n06268096	P527	byline
+n06269130	P527	byline
+n03272562	P527	cab
+n04468847	P527	cab
+n04310018	P527	cab
+n07589458	P527	cabbage
+n07863229	P527	cabbage
+n07920052	P527	Caffè crema
+n12929783	P527	caffeine
+n04581102	P527	calcium hydroxide
+n12711984	P527	calcium oxide
+n05449073	P527	calcium(2+)
+n03602562	P527	calendar
+n02962200	P527	calibrated orifice
+n03021228	P527	calyx
+n02946824	P527	cam
+n09732903	P527	Cambodian French
+n02942699	P527	camera lens
+n04062179	P527	camshaft
+n08172695	P527	Canada
+n09974496	P527	candied fruit
+n12350758	P527	Canna
+n12396924	P527	cannabidiol
+n05314075	P527	Canthus
+n05314075	P527	Canthus
+n03087816	P527	capacitor
+n10432957	P527	capital
+n03935883	P527	capital
+n07858336	P527	Capparis spinosa
+n07585758	P527	Capsicum
+n15056372	P527	carbon
+n07859142	P527	carbon
+n04969617	P527	carbon
+n04191150	P527	carbon
+n04970312	P527	carbon
+n14793533	P527	carbon
+n04310904	P527	carbon
+n14961375	P527	carbon
+n07566863	P527	carbon
+n06262567	P527	carbon
+n15092650	P527	carbon
+n04963449	P527	carbon
+n13136863	P527	carbon
+n15092059	P527	carbon
+n02975994	P527	carbon
+n04968257	P527	carbon
+n10165109	P527	carbon
+n12588320	P527	carbon
+n02992368	P527	carbon
+n12906771	P527	carbon
+n11849271	P527	carbon
+n03640850	P527	carbon
+n14810561	P527	carbon
+n14796575	P527	carbon
+n14957270	P527	carbon
+n09395266	P527	carbon
+n07858841	P527	carbon
+n14900184	P527	carbon
+n14919819	P527	carbon
+n07914777	P527	carbonated water
+n02893608	P527	cardia
+n08008017	P527	cargo
+n08173165	P527	Caribbean
+n01986806	P527	Caridea
+n09354984	P527	Carina–Sagittarius Arm
+n07582609	P527	Carmelo Pipitone
+n11842204	P527	Carmine Appice
+n02250280	P527	carminic acid
+n03002341	P527	Caroline Polachek
+n07719058	P527	carotene
+n13093852	P527	carpel
+n07625061	P527	carrot
+n07868955	P527	carrot
+n07873464	P527	carrot
+n03831062	P527	cartilage
+n03335600	P527	cartographic design
+n04450465	P527	cartridge case
+n12339526	P527	caryophyllene
+n07619881	P527	cassava root
+n02980441	P527	castle park
+n03099945	P527	catalyst
+n03300216	P527	Category 6 cable
+n03300216	P527	Category 7 cable
+n03300216	P527	Category 8 cable
+n01824344	P527	Cathedral of Ani
+n04484432	P527	cathode
+n07904637	P527	Catholic Church
+n07813107	P527	cation
+n02758134	P527	cavea
+n03094503	P527	cavity
+n09657887	P527	Cayuga people
+n02913152	P527	ceiling
+n07865484	P527	celery
+n07733394	P527	celery
+n07813324	P527	celery
+n00004475	P527	cell
+n07993109	P527	cell biology
+n05457469	P527	cell part
+n07998323	P527	cello
+n09635973	P527	Celtic
+n04151405	P527	cement
+n09747722	P527	Central German
+n02995151	P527	central heating unit
+n03277149	P527	Central Pacific Railroad Grade Historic District
+n04485423	P527	central panel
+n09887034	P527	central processing unit
+n03196062	P527	central processing unit
+n03918480	P527	central processing unit
+n03918480	P527	central unit
+n03799710	P527	ceramic mural
+n02380583	P527	Cerbat Mustang
+n07704054	P527	cereal
+n12156819	P527	cereal
+n07874780	P527	cereal
+n07703889	P527	cereal
+n10027953	P527	cEvin Key
+n02964389	P527	Chad Urmston
+n14700594	P527	chaff
+n11678768	P527	chalaza
+n03752071	P527	Chameleon Body
+n03778302	P527	change
+n03077958	P527	channel
+n02870092	P527	chapter
+n02538406	P527	Char
+n06414372	P527	character
+n03994008	P527	charcoal
+n07739923	P527	Charles Baldwin
+n01372038	P527	Charlie Peacock
+n01407798	P527	Charophyta
+n07871234	P527	Cheddar cheese
+n05539138	P527	cheek
+n03159640	P527	cheek
+n07854455	P527	cheese
+n07697100	P527	cheese
+n07697313	P527	cheese
+n07881205	P527	cheese
+n07708124	P527	cheese
+n07867883	P527	cheese fondue
+n07639069	P527	chemical pollution
+n03012734	P527	chemical warfare agents
+n04244847	P527	Cheri
+n07916437	P527	cherry
+n03189083	P527	chess opening
+n09973209	P527	Chetes
+n02905036	P527	chick
+n07591961	P527	chicken
+n07613266	P527	chicken egg
+n07843636	P527	chicken egg
+n07808479	P527	chicken meat
+n07861557	P527	chicken meat
+n07865484	P527	chicken meat
+n07863935	P527	chicken meat
+n07862095	P527	chicken meat
+n07864756	P527	chicken meat
+n07696728	P527	chicken meat
+n07585557	P527	chicken meat
+n07867164	P527	chickpea
+n14908822	P527	chickpea
+n07599998	P527	chicle
+n10243872	P527	Chie Sawaguchi
+n10498046	P527	childhood friend
+n07997703	P527	children
+n08172695	P527	Chile
+n07822845	P527	chili pepper
+n09718217	P527	Chinese Japanese
+n04536866	P527	chinrest
+n09717454	P527	Chipilo Venetian dialect
+n07812046	P527	chives
+n07834872	P527	chives
+n09772930	P527	chloride ion
+n14957270	P527	chlorine
+n01407798	P527	Chlorophyta
+n14780737	P527	chocolate
+n07617611	P527	chocolate
+n07907943	P527	chocolate
+n07867883	P527	chocolate fondue
+n07616748	P527	chocolate ice cream
+n07928264	P527	chocolate syrup
+n03024064	P527	chorist
+n10421016	P527	Chris Black
+n04020912	P527	Chris Brokaw
+n10643584	P527	Chris Difford
+n09620794	P527	Chris Mayne
+n11833373	P527	Christer Knutsen
+n04269822	P527	Christian Basso
+n05442131	P527	chromosome arm
+n05442131	P527	chromosome, centromeric region
+n05442131	P527	chromosome, telomeric region
+n02666943	P527	Chuck Schuldiner
+n03028079	P527	church building
+n01824344	P527	Church of Saint Gregory of Abughamrents
+n01824344	P527	Church of Saint Gregory of Gagkashen
+n01824344	P527	Church of Saint Gregory of Tigran Honents
+n01824344	P527	Church of the Holy Apostles of Ani
+n01824344	P527	Church of the Holy Redeemer of Ani
+n03517899	P527	church tabernacle
+n14908822	P527	Cicer arietinum
+n07921455	P527	cider apple
+n07583066	P527	cilantro
+n13892897	P527	Cinder Block
+n07926920	P527	cinnamon
+n02539573	P527	Cisco
+n07925229	P527	citric acid
+n07643764	P527	citrus fruit
+n03776050	P527	city grade offset
+n13912424	P527	clade
+n04230808	P527	Claire Huguenin
+n04610013	P527	Claire L. Evans
+n07587700	P527	clam
+n07582970	P527	clam
+n09327538	P527	classical Kuiper belt object
+n04244847	P527	Claude
+n03523398	P527	Claudio Simonetti
+n14942223	P527	clay
+n01986806	P527	cleaner shrimp
+n01754370	P527	Clement Vallandigham
+n07639069	P527	climate change
+n02421449	P527	CLISP
+n03909406	P527	clock hand
+n03781244	P527	cloister
+n10498046	P527	close friend
+n07926920	P527	clove
+n03272562	P527	coach
+n04468847	P527	coach
+n04467665	P527	coach
+n02686568	P527	cockpit
+n03126707	P527	cockpit
+n07916041	P527	cocktail glass
+n07610502	P527	coconut
+n07840672	P527	coconut
+n07920540	P527	coffee
+n07562172	P527	coffee
+n04055180	P527	cogwheel
+n03276179	P527	coil
+n07954863	P527	coin catalog
+n07954863	P527	coin collecting
+n03731164	P527	coir
+n05448149	P527	Col1a1
+n02386496	P527	coldbloods
+n02768744	P527	Colin Hodgkinson
+n03238879	P527	collar
+n07993109	P527	colonoscopy
+n04178329	P527	Colossus of Rhodes
+n03026093	P527	colour progression
+n03282933	P527	coloured embroidery
+n03071160	P527	column
+n10432957	P527	column base
+n09251407	P527	coma
+n02995151	P527	combustible matter
+n09251407	P527	Comet nucleus
+n09251407	P527	comet tail
+n07845087	P527	command
+n09875786	P527	commercial broadcasting
+n03894379	P527	company division
+n07997703	P527	comparative anatomy
+n03095699	P527	compass deck
+n10335563	P527	compound leaf
+n07993109	P527	computational biology
+n03918480	P527	computer case
+n09887034	P527	computer hardware
+n03085915	P527	computer hardware
+n03085013	P527	computer key
+n09887034	P527	computer keyboard
+n03642806	P527	computer keyboard
+n03918480	P527	computer keyboard
+n03918480	P527	computer memory
+n03642806	P527	computer monitor
+n03918480	P527	computer monitor
+n03098688	P527	computer network
+n04257533	P527	computer program
+n03086580	P527	concert hall
+n01805801	P527	Congo Peafowl
+n04486616	P527	Congress for the Republic
+n09252970	P527	conjunction
+n04062179	P527	connecting rod
+n02421449	P527	conspiracy
+n03956922	P527	construction work
+n10219240	P527	container
+n06511874	P527	contracting party
+n04484432	P527	control grid
+n03061674	P527	control panel
+n02933340	P527	control panel
+n02382204	P527	control panel
+n03098688	P527	control panel
+n03736970	P527	control panel
+n02692232	P527	control room
+n10462429	P527	control room
+n03388183	P527	converter
+n03087366	P527	convex lens
+n07868340	P527	cooked rice
+n09748408	P527	cooking oil
+n07834507	P527	cooking oil
+n07682197	P527	cooking oil
+n07833816	P527	cooking oil
+n07003568	P527	coordinate system
+n09772930	P527	copper
+n04968257	P527	copper
+n02771840	P527	copying
+n07867164	P527	coriander seed
+n13905572	P527	Cormac Battle
+n07608098	P527	corn syrup
+n09722898	P527	corn tortilla
+n07867021	P527	corn tortilla
+n07712856	P527	corn tortilla
+n07689003	P527	cornmeal
+n03021228	P527	corona
+n10464542	P527	corrosion
+n09886220	P527	corruption
+n03673450	P527	corset
+n08173165	P527	Costa Rica
+n07893642	P527	Côte des Blancs
+n04467665	P527	coupe
+n07575726	P527	course
+n03704210	P527	cover
+n03877229	P527	covering
+n01887787	P527	cow head
+n07690585	P527	cow's milk
+n01338178	P527	Coxsackie B virus
+n03711711	P527	CPU cache
+n10477955	P527	CPU socket
+n13044778	P527	Craig Wuest
+n07823698	P527	cranberry
+n07924443	P527	cranberry
+n07588817	P527	cream
+n07851554	P527	cream
+n01580870	P527	crest of feathers
+n08172695	P527	Croatia
+n08386365	P527	crorepati
+n03136369	P527	Crossbow nut
+n09972010	P527	cross-cousin
+n13131883	P527	crossguard
+n04049098	P527	Cross-platform interchange
+n04335209	P527	crosswalk
+n07591586	P527	crouton
+n07806879	P527	crouton
+n02824448	P527	crown
+n07584332	P527	Crustacea
+n04373894	P527	cryptanalysis
+n03143754	P527	Crystal oscillator
+n09982152	P527	Cuckquean
+n07908812	P527	cucumber
+n01405250	P527	cucumber
+n07585758	P527	Cucumis sativus
+n07620047	P527	cuesta
+n07695742	P527	cumin seed
+n07867164	P527	cumin seed
+n04381994	P527	cup
+n03272562	P527	current collector
+n04468847	P527	current collector
+n06592576	P527	cushion
+n07610890	P527	custard
+n01604330	P527	customer
+n09349648	P527	cut bank
+n04381994	P527	cutlery
+n10417424	P527	Cyanobacteria
+n04086446	P527	cylinder
+n10278263	P527	cylinder block
+n04062179	P527	cylinder head
+n13132756	P527	cyme
+n11831874	P527	Czech cuisine
+n10300654	P527	Daevid Allen
+n07806221	P527	dairy product
+n12567490	P527	Damien Rice
+n04404200	P527	Dan Lacksman
+n09757653	P527	Dan Michaelson
+n09778392	P527	Dan Peppe
+n00452734	P527	Dan Swanö
+n12940226	P527	Dan the Automator
+n09792125	P527	Daniel Cavanagh
+n01323781	P527	Dann Huff
+n14936474	P527	Danni Makov
+n03558007	P527	Danny Diablo
+n09778392	P527	Danny Saber
+n09792125	P527	Darren "Daz" White
+n03151500	P527	dashpot
+n03579982	P527	Dave Cochrane
+n10776987	P527	Dave Swarbrick
+n04201845	P527	Dave Tregunna
+n09904321	P527	David Lowery
+n03243218	P527	DC power connector
+n09996636	P527	dealing
+n02424305	P527	Deantoni Parks
+n06426865	P527	declination
+n10008388	P527	Dee Snider
+n04128499	P527	deep keel
+n04604276	P527	Deep web
+n03944672	P527	defibrillation
+n07639069	P527	deforestation
+n06535222	P527	delegated legislation
+n09264599	P527	Dell
+n09264599	P527	Dell
+n02735688	P527	Demetrio Stratos
+n04486616	P527	Democratic Forum for Labour and Liberties
+n01986806	P527	Dendrobranchiata
+n09747722	P527	Denglisch
+n08172695	P527	Denmark
+n01498041	P527	Dennis East
+n05238282	P527	dermis
+n06281040	P527	detection
+n06449735	P527	Deuteronomy
+n04355338	P527	dial
+n10492627	P527	Didi Harari
+n03577090	P527	die
+n04303497	P527	die
+n04269822	P527	Diego Frenkel
+n07966421	P527	diel vertical migration
+n03843092	P527	diesel
+n03193260	P527	diesel-electric transmission
+n06616806	P527	diffraction grating
+n02962200	P527	diffuser
+n04203889	P527	digestive system
+n03262717	P527	digging
+n07639069	P527	digital divide
+n06277280	P527	digital video recording
+n09703485	P527	directory structure
+n03243218	P527	disk buffer
+n03209666	P527	disk controller
+n03209666	P527	disk drive head
+n03209666	P527	disk drive track
+n03209666	P527	disk sector
+n03733925	P527	display device
+n01385527	P527	distribution
+n03367740	P527	division
+n07719058	P527	DL-ascorbic acid
+n07876189	P527	DL-lactic acid
+n05442131	P527	DNA
+n06470073	P527	document-type information
+n10223744	P527	Doe
+n01797020	P527	Donald Shaw
+n03102771	P527	Doogie White
+n02913152	P527	door
+n04468847	P527	door
+n03978300	P527	dot
+n03225777	P527	dot matrix impact printer
+n07998323	P527	double bass
+n07611148	P527	dough
+n07614103	P527	dough
+n04433377	P527	downlink
+n07842433	P527	drawing
+n04592962	P527	dressing room
+n07958501	P527	dried flowers
+n07604956	P527	dried fruit
+n07906111	P527	drinking water
+n06423378	P527	drive letter assignment
+n02386496	P527	driving
+n04310018	P527	driving wheel
+n07916041	P527	dry vermouth
+n03212114	P527	dumping
+n07700003	P527	durum wheat semolina
+n05260380	P527	Dustin Wong
+n03612965	P527	eardrum
+n10260706	P527	early life of
+n09747722	P527	Early New High German
+n09900284	P527	Eastern Catalan
+n03629100	P527	Eastern Kurdistan
+n02387346	P527	Eastfarthing
+n06449735	P527	Ecclesiastes
+n07993109	P527	ecology
+n09968845	P527	economic counsellor
+n10187557	P527	economic security
+n02962200	P527	economizer
+n07589458	P527	edible mushroom
+n03665924	P527	Edison screw
+n07639069	P527	education
+n07739923	P527	Edward Baldwin
+n07866868	P527	egg
+n07620597	P527	egg
+n03794136	P527	egg
+n07619004	P527	egg
+n07877675	P527	egg
+n07610890	P527	egg
+n09748408	P527	egg
+n07868200	P527	egg
+n07681450	P527	egg
+n07868508	P527	egg
+n07870894	P527	egg
+n07691091	P527	egg
+n03012263	P527	egg
+n07842202	P527	egg
+n07876775	P527	egg
+n07831146	P527	egg
+n07866868	P527	egg
+n07806879	P527	egg
+n07862244	P527	egg
+n07841639	P527	egg
+n01460457	P527	egg white
+n07612137	P527	egg white
+n07605693	P527	egg white
+n07621140	P527	egg white
+n07617611	P527	egg white
+n01460457	P527	egg yolk
+n07834507	P527	egg yolk
+n07592768	P527	eggplant
+n03061674	P527	ejection seat
+n08173165	P527	El Salvador
+n03268553	P527	elbow joint
+n10602985	P527	elder sister
+n02992032	P527	election committee
+n04591517	P527	electric generator
+n03579791	P527	electric machine
+n04468847	P527	electric motor
+n02855089	P527	electric motor
+n04057047	P527	electric shaver
+n03243218	P527	electrical connector
+n03458422	P527	electrical grid
+n03665924	P527	electrical plug
+n04681230	P527	electron shell
+n02757462	P527	electronic amplifier
+n04472726	P527	electronic amplifier
+n09622745	P527	electronic music
+n09391223	P527	elementary particle
+n09291633	P527	elementary particle
+n03333129	P527	Elliot Lurie
+n13872975	P527	ellipse
+n09252970	P527	elongation
+n08166552	P527	embassy
+n10053439	P527	Empress Consort
+n10053439	P527	Empress Dowager
+n10053439	P527	Empress Regnant
+n06552639	P527	end
+n03189083	P527	endgame
+n11684264	P527	endocarp
+n07639069	P527	energy
+n04013060	P527	energy source
+n02111889	P527	Enets
+n03791235	P527	engine
+n03790230	P527	engine
+n03095699	P527	engine room
+n03321672	P527	English Fantail
+n04486616	P527	Ennahda Movement
+n02915807	P527	Ensete ventricosum
+n03071160	P527	entablature
+n01338178	P527	Enterovirus A
+n03579791	P527	Entwicklungsring Nord
+n04484432	P527	envelope
+n11684264	P527	epicarp
+n06593803	P527	episode
+n06453849	P527	Epistle of James
+n06453849	P527	Epistle of Jude
+n06453849	P527	Epistle to Philemon
+n06453849	P527	Epistle to the Colossians
+n06453849	P527	Epistle to the Ephesians
+n06453849	P527	Epistle to the Galatians
+n06453849	P527	Epistle to the Hebrews
+n06453849	P527	Epistle to the Philippians
+n06453849	P527	Epistle to the Romans
+n06453849	P527	Epistle to Titus
+n02757462	P527	equalizer
+n14936474	P527	Eran Zur
+n04226826	P527	Erik Sanko
+n02442172	P527	ermine spot
+n12339526	P527	essential oil
+n07906111	P527	ethanol
+n03831062	P527	ethmoid bone
+n02114712	P527	Euge Valovirta
+n12339526	P527	eugenol
+n08172695	P527	Europe
+n07639069	P527	eutrophication
+n10187557	P527	event security
+n07570720	P527	excretion
+n04526520	P527	exhalation
+n03300216	P527	exhibit
+n03303831	P527	exhibition booth
+n07639069	P527	Exode
+n06422144	P527	experience
+n06552639	P527	expungement
+n03831062	P527	external nose
+n12532886	P527	extract
+n06449735	P527	Ezekiel
+n01861778	P527	Ezekiel Ox
+n09493374	P527	Faber Park
+n03512147	P527	Fabián Furtado
+n02913152	P527	facade
+n11891541	P527	fairness
+n03446528	P527	fairway
+n01610955	P527	Falcon 1
+n01610955	P527	Falcon 9
+n01610955	P527	Falcon Heavy
+n04267091	P527	Falkenhagener Feld
+n10357349	P527	family
+n03321672	P527	fantail
+n02387346	P527	Far Downs
+n07844604	P527	fat
+n10583387	P527	female colonizer
+n09972010	P527	female cousin
+n11552133	P527	fern
+n11552133	P527	Fern ally
+n04269822	P527	Fernando Samalea
+n03349367	P527	ferrule
+n10236842	P527	fetishism
+n05448149	P527	Fgf23
+n04536866	P527	f-hole
+n03405725	P527	fiberboard
+n04219424	P527	fibroin
+n03332393	P527	field gun
+n07733394	P527	filé
+n06423378	P527	filename
+n03030880	P527	filter
+n11552133	P527	financial accounting
+n04536866	P527	fine tuner
+n09743891	P527	Finnish mythology
+n03344509	P527	firebox door
+n09451378	P527	firecracker
+n10369528	P527	firefighting
+n04086446	P527	firing pin
+n03948459	P527	firing pin
+n04090263	P527	firing pin
+n06453849	P527	First Epistle of John
+n06453849	P527	First Epistle of Peter
+n06453849	P527	First Epistle to the Corinthians
+n06453849	P527	First Epistle to the Thessalonians
+n06453849	P527	First Epistle to Timothy
+n04374735	P527	First Family
+n10295951	P527	First marshal of the empire
+n10498699	P527	first quarter
+n07868955	P527	fish
+n07591586	P527	fish
+n07867324	P527	fish
+n07588111	P527	fish
+n07591586	P527	fish as food
+n07591586	P527	fish soup
+n07591813	P527	fish stock
+n03351979	P527	fishing float
+n03351979	P527	fishing hook
+n03351979	P527	fishing line
+n03351979	P527	fishing reel
+n03351979	P527	fishing sinker
+n03351979	P527	Fishing-rod
+n09785236	P527	Five Leaves Left
+n04509985	P527	flag of England
+n04509985	P527	flag of Scotland
+n03556173	P527	flange
+n03196062	P527	flash
+n12279458	P527	flavine
+n04552696	P527	fleet
+n09699763	P527	Flemings
+n02813645	P527	Flemming Quist Møller
+n03061674	P527	flight instrument
+n03365991	P527	floor
+n02913152	P527	floor
+n07873807	P527	flour
+n07694659	P527	flour
+n02928172	P527	flour
+n03432972	P527	flour
+n07679356	P527	flour
+n07691954	P527	flour
+n07621976	P527	flour
+n07837362	P527	flour
+n07683617	P527	flour
+n07693725	P527	flour
+n00483605	P527	flour
+n07694839	P527	flour
+n07695504	P527	flour
+n07693972	P527	flour
+n07691091	P527	flour
+n07695742	P527	flour
+n07682624	P527	flour
+n03012263	P527	flour
+n07890617	P527	flour
+n07684938	P527	flour
+n07692517	P527	flour
+n07692114	P527	flour
+n11674332	P527	flower
+n15056372	P527	fluorine
+n14961375	P527	fluorine
+n07867883	P527	fondue Bourguignonne
+n07845087	P527	food ingredient
+n00021265	P527	food ingredient
+n07639069	P527	food security
+n03654826	P527	foot
+n03325403	P527	footrest
+n04576002	P527	footstool
+n03013580	P527	footwall
+n02737660	P527	forearm
+n03159640	P527	forehead
+n06480506	P527	forward contract
+n03388183	P527	fountain pen ink cartridge
+n10498699	P527	fourth quarter
+n03877229	P527	frame
+n08172695	P527	France
+n01600657	P527	Frank Hasselstroem
+n12305819	P527	Frank Secich
+n10109050	P527	Franklin (author)
+n10109050	P527	Franklin (North Carolina)
+n10109050	P527	Franklin, California
+n10109050	P527	Franklin, New York
+n10109050	P527	Franklin, Wisconsin
+n10025060	P527	Franz Gottschalk
+n10300654	P527	Fred Maher
+n10589140	P527	Freddy Curci
+n10517283	P527	French Canadians
+n07867324	P527	French-fried potatoes
+n03799710	P527	fresco
+n03012263	P527	fresh cheese
+n07591813	P527	freshwater fish
+n03467517	P527	fret
+n04536866	P527	fretboard
+n10464542	P527	fretting
+n03431570	P527	Friction drive
+n09699763	P527	Frisians
+n02879718	P527	frog
+n07868684	P527	frog
+n04232153	P527	frontal bone
+n07611046	P527	fruit
+n09894909	P527	fruit
+n07807922	P527	fruit
+n07600506	P527	fruit
+n07883156	P527	fruit
+n07806221	P527	fruit
+n07923748	P527	fruit
+n07890617	P527	fruit
+n07907943	P527	fruit
+n03726516	P527	fuel bunker
+n02834778	P527	fuel tank
+n04148054	P527	fulcrum
+n12110778	P527	Fulford
+n06278475	P527	Full High Definition
+n02893608	P527	fundus
+n03799710	P527	funeral litre
+n11552133	P527	fungus
+n03405725	P527	furniture hardware
+n03904657	P527	gable
+n07871065	P527	Gadus morhua
+n09354984	P527	Galactic anticenter
+n09354984	P527	Galactic Center of Milky Way
+n09354984	P527	Galactic north
+n06026276	P527	galaxy filament
+n07589543	P527	game meat
+n11675537	P527	gametophyte
+n03416489	P527	garage door
+n07812046	P527	garden chervil
+n07857076	P527	garlic
+n07813409	P527	garlic
+n07832416	P527	garlic
+n07591586	P527	garlic
+n07592768	P527	garlic
+n07834774	P527	garlic
+n07682808	P527	garlic
+n14908822	P527	garlic
+n07881625	P527	garlic
+n03421324	P527	garter clip
+n03705379	P527	Gary Carpenter
+n03725600	P527	gasket
+n03944672	P527	gasket
+n03843092	P527	gasoline
+n03781055	P527	gasoline
+n03332784	P527	gate
+n03439348	P527	Gate Piers And Front Wall To Number 5, Glebe House
+n03428477	P527	gateway address
+n04267091	P527	Gatow
+n03431570	P527	gear housing
+n04596630	P527	Geir Marius Bergom Halleland
+n07605944	P527	gelatin
+n07644244	P527	gelatin
+n07608098	P527	gelatin
+n07562172	P527	gelatin dessert
+n07639069	P527	gender equality
+n05442131	P527	gene complex
+n10111023	P527	Gene Ween
+n08433727	P527	general aviation
+n07993109	P527	genetics
+n02768114	P527	Genista bristle
+n08184730	P527	George Lynch
+n06474122	P527	Georges-Picot
+n03831062	P527	German folklore
+n09635973	P527	Germanic
+n08172695	P527	Germany
+n10341660	P527	germline mutation
+n10281637	P527	Gewar Khan Manganyar
+n02421449	P527	GIMP
+n07916041	P527	gin
+n07928367	P527	ginger
+n09622745	P527	girlfriend
+n09359803	P527	glacier
+n09289331	P527	glacier terminus
+n03773035	P527	glass
+n14866769	P527	glass fiber
+n04001265	P527	Glen Pine
+n10643584	P527	Glenn Tilbrook
+n03944672	P527	globe valve
+n04109335	P527	Gloria Patri
+n07601809	P527	glucose
+n07605380	P527	glucose syrup
+n07857170	P527	Glycine max
+n02421449	P527	Gnash
+n02421449	P527	GNOME
+n02421449	P527	GNU Anubis
+n02421449	P527	GNU arch
+n02421449	P527	GNU Archimedes
+n02421449	P527	GNU Artanis
+n02421449	P527	GNU Aspell
+n02421449	P527	GNU assembler
+n02421449	P527	GNU AutoGen
+n02421449	P527	GNU Bash
+n02421449	P527	GNU Bazaar
+n02421449	P527	GNU Binutils
+n02421449	P527	GNU bison
+n02421449	P527	GNU Chess
+n02421449	P527	GNU Circuit Analysis Package
+n02421449	P527	GNU Classpath
+n02421449	P527	GNU Common Lisp
+n02421449	P527	GNU Compiler Collection
+n02421449	P527	GNU Compiler for Java
+n02421449	P527	GNU cpio
+n02421449	P527	GNU ddrescue
+n02421449	P527	GNU Debugger
+n02421449	P527	GNU Emacs
+n02421449	P527	GNU Enscript
+n02421449	P527	GNU fcrypt
+n02421449	P527	GNU Find Utilities
+n02421449	P527	GNU Fortran
+n02421449	P527	GNU FreeFont
+n02421449	P527	GNU FreeIPMI
+n02421449	P527	GNU Ghostscript
+n02421449	P527	GNU Go
+n02421449	P527	GNU Grep
+n02421449	P527	GNU GRUB
+n02421449	P527	GNU Guile
+n02421449	P527	GNU Guix
+n02421449	P527	GNU Health
+n02421449	P527	GNU Hello
+n02421449	P527	GNU IceCat
+n02421449	P527	GNU inetutils
+n02421449	P527	GNU JEL
+n02421449	P527	GNU nano
+n02421449	P527	GNU Octave
+n02421449	P527	GNU Privacy Guard
+n02421449	P527	GNU PSPP
+n02421449	P527	GNU Radio
+n02421449	P527	GNU Scientific Library
+n02421449	P527	GNU Shepherd
+n02421449	P527	GNU social
+n02421449	P527	GNU Solfege
+n02421449	P527	GNU Unifont
+n02421449	P527	GNUbik
+n02421449	P527	GnuCash
+n02421449	P527	GnuCOBOL
+n02421449	P527	Gnumeric
+n02421449	P527	GNUnet
+n02421449	P527	Gnuspeech
+n02421449	P527	GnuTLS
+n10134001	P527	goalkeeper
+n10134396	P527	goddaughter
+n10134982	P527	godfather
+n10134982	P527	godmother
+n10134396	P527	godson
+n09230768	P527	gogotte
+n14995541	P527	gogotte
+n02692877	P527	gondola
+n10200531	P527	goods and services
+n02695627	P527	Google
+n06453849	P527	Gospel of John
+n06453849	P527	Gospel of Luke
+n06453849	P527	Gospel of Mark
+n06453849	P527	Gospel of Matthew
+n10356066	P527	gossip
+n07900616	P527	Governo-Geral da Madeira
+n07695652	P527	Graham flour
+n03220692	P527	Graham Lewis
+n07684517	P527	grain
+n10141930	P527	Grand Duchess Consort
+n07924560	P527	grape
+n03946325	P527	grape
+n03918480	P527	graphics card
+n09887034	P527	graphics processing unit
+n08521623	P527	grave
+n04178329	P527	Great Pyramid of Giza
+n08172877	P527	Greece
+n07979425	P527	Greek deity
+n07978924	P527	Greek mythology
+n07979425	P527	Greek underworld
+n03446528	P527	green
+n07591961	P527	green bean
+n01805801	P527	Green Peafowl
+n08172877	P527	Greenland
+n07697699	P527	ground beef
+n02913152	P527	ground floor
+n03140771	P527	ground-launched cruise missile
+n07837630	P527	Gruyère
+n02421449	P527	GTK
+n07831146	P527	guanciale
+n08173165	P527	Guatemala
+n09727323	P527	Guillermo Bordarampé
+n03467517	P527	guitar string
+n09675922	P527	Gujarati letter
+n07599998	P527	gum base
+n04086446	P527	gun barrel
+n03948459	P527	gun barrel
+n04090263	P527	gun barrel
+n01554448	P527	gunpowder
+n02421449	P527	gzip
+n06449735	P527	Habakkuk
+n04109335	P527	Hail Mary
+n02879718	P527	hair
+n06449735	P527	hair embroidery
+n10184290	P527	Haitian Vodou
+n04267091	P527	Hakenfelde
+n02993081	P527	Hallucinogen
+n07696625	P527	ham
+n04086446	P527	hammer
+n03948459	P527	hammer
+n04090263	P527	hammer
+n03481172	P527	hammerhead
+n09698108	P527	Han Chinese people
+n13131883	P527	handle
+n04086446	P527	handle
+n04213353	P527	handle
+n03481172	P527	handle
+n09921409	P527	handle
+n03948459	P527	handle
+n03267468	P527	handle
+n04283585	P527	handle
+n04090263	P527	handle
+n03349367	P527	handle
+n03488438	P527	handle
+n04114996	P527	handle
+n04158250	P527	handle
+n03489162	P527	handle
+n04178329	P527	Hanging Gardens of Babylon
+n03013580	P527	hanging wall
+n04054213	P527	Hard Land of Wonder
+n10281637	P527	Harish Kumar
+n10643584	P527	Harri Kakoulli
+n08539557	P527	Haruomi Hosono
+n04267091	P527	Haselhorst
+n07574602	P527	Hawker Siddeley
+n03446528	P527	hazard
+n06278475	P527	HD ready
+n02824448	P527	head
+n04062179	P527	Head gasket
+n06268096	P527	headline
+n06269130	P527	headline
+n03505667	P527	headphones
+n03488438	P527	headphones
+n04535153	P527	headpiece
+n03467517	P527	headstock
+n07639069	P527	health
+n03643737	P527	heating element
+n10713502	P527	heating element
+n03508101	P527	heating element
+n03458422	P527	heating system
+n08483935	P527	Hebrews 1
+n08483935	P527	Hebrews 10
+n08483935	P527	Hebrews 11
+n08483935	P527	Hebrews 12
+n08483935	P527	Hebrews 13
+n08483935	P527	Hebrews 2
+n08483935	P527	Hebrews 3
+n08483935	P527	Hebrews 4
+n08483935	P527	Hebrews 5
+n08483935	P527	Hebrews 6
+n08483935	P527	Hebrews 7
+n08483935	P527	Hebrews 8
+n08483935	P527	Hebrews 9
+n02723754	P527	Helena Paparizou
+n03512830	P527	helipad
+n01944390	P527	Helix pomatia
+n09635973	P527	Hellenic
+n12565102	P527	hematoxylin
+n01791625	P527	hen
+n07739923	P527	Henry Baldwin
+n07823951	P527	herb
+n10739881	P527	Hidetsugu Shibata
+n08386365	P527	high-net-worth individual
+n09881748	P527	hillbilly music
+n08270662	P527	Hills cloud
+n13131883	P527	hilt
+n04303497	P527	hinge
+n02976455	P527	hinge
+n12620546	P527	hip bone
+n12620546	P527	hip joint
+n03077958	P527	hire purchase
+n05442131	P527	histone
+n01336718	P527	HIV type 1
+n01336718	P527	HIV type 2
+n13121544	P527	holdfast
+n03446528	P527	hole
+n07866868	P527	hollandaise sauce
+n08558963	P527	home
+n10187557	P527	homeland security
+n08173165	P527	Honduras
+n07693223	P527	honey
+n07890750	P527	honey
+n11891541	P527	honorableness
+n07886849	P527	hops
+n07690892	P527	Hordeum vulgare
+n07877675	P527	horse meat
+n07834872	P527	horseradish root
+n02421449	P527	Hostel
+n03541696	P527	Hostel: Part II
+n03541696	P527	Hostel: Part III
+n07865105	P527	hot dog bun
+n10532252	P527	hot dog bun
+n07583197	P527	hot water
+n03665924	P527	housing
+n07639069	P527	housing
+n04062179	P527	How to Cook Everything The Basics
+n04128499	P527	hull
+n04115456	P527	hull
+n07942152	P527	human
+n02472987	P527	human
+n02472293	P527	human body
+n05539138	P527	human brain
+n05539138	P527	human mouth
+n05539138	P527	human nose
+n03321672	P527	Hungarian Fantail
+n08172695	P527	Hungary
+n02421449	P527	Hurd
+n10082043	P527	husband's father
+n10333317	P527	husband's mother
+n07566863	P527	hydrogen
+n06262567	P527	hydrogen
+n15092650	P527	hydrogen
+n15092059	P527	hydrogen
+n02975994	P527	hydrogen
+n04968257	P527	hydrogen
+n14914945	P527	hydrogen
+n14900184	P527	hydrogen
+n05449073	P527	hydron
+n09772930	P527	hydroxide ion
+n13872975	P527	hyperbola
+n01397114	P527	hypnosis
+n01880152	P527	Hypsiprymnodontidae
+n10538082	P527	Hyunkyung
+n12125183	P527	I Know Him So Well
+n03705379	P527	Ian Cutler
+n10744544	P527	Ibrahim Emin
+n14915804	P527	ice
+n07920540	P527	ice
+n03557141	P527	ice
+n07615671	P527	ice cream
+n07610620	P527	ice cream
+n03813078	P527	ice skater
+n08173030	P527	Iceland
+n05449073	P527	Ifnar1
+n01741943	P527	Igor Knyazev
+n02278839	P527	Ihsahn
+n07910538	P527	Illicium verum
+n09635973	P527	Illyrian
+n03196062	P527	image sensor
+n02855089	P527	impeller
+n10472799	P527	imperial princess
+n06591609	P527	Inciclopedia country
+n03212114	P527	incineration
+n03321672	P527	Indian Fantail
+n01805801	P527	Indian Peafowl
+n03882346	P527	indicator light
+n09712324	P527	Indo-Guyanese
+n09635973	P527	Indo-Iranian
+n10187557	P527	information security
+n07570720	P527	ingestion
+n03081660	P527	initial
+n03467517	P527	inlay
+n02836035	P527	inner tube
+n00471613	P527	inning
+n02846733	P527	input/output
+n09887034	P527	input-output device
+n03679986	P527	insertion
+n05490578	P527	insula
+n03443912	P527	Inte ens
+n03577090	P527	integrated circuit packaging type
+n09956035	P527	interaction
+n03098688	P527	intercom
+n03061674	P527	intercom
+n08501887	P527	intergalactic medium
+n09875786	P527	Internet audio-visual programming service provider
+n10473453	P527	intestine
+n07605380	P527	Inverted sugar syrup
+n03629100	P527	Iraqi Kurdistan
+n04969617	P527	iron
+n04310904	P527	iron
+n12110778	P527	Iron Hill
+n09434237	P527	iron(II) carbonate
+n06449735	P527	Isaiah
+n08173030	P527	Israel
+n06593296	P527	issue
+n09717454	P527	Istrian dialect
+n09718217	P527	Italian Japanese
+n09635973	P527	Italic
+n08172877	P527	Italy
+n05449073	P527	Itgb3
+n03570526	P527	Itziar Ituño
+n09684901	P527	Iwan Fals
+n03849814	P527	J2me
+n04387400	P527	Jac Bico
+n03314028	P527	jack
+n09986700	P527	Jack Kelly
+n02867267	P527	Jack Rose
+n03591592	P527	Jacquard mechanism
+n07583066	P527	jalapeño
+n03593034	P527	jam
+n03556992	P527	James Poke
+n03558007	P527	Jamey Jasta
+n07698543	P527	Jamie Lenman
+n01614038	P527	Jan Kuehnemund
+n02114712	P527	Janne Joutsenniemi
+n12903503	P527	Janne Parviainen
+n08172695	P527	Japan
+n09718217	P527	Japanese people of Argentine descent
+n07613266	P527	Japanese space program
+n07680313	P527	Japonica rice
+n03877472	P527	Jared French
+n02381744	P527	Jarkko Eve
+n09493374	P527	Jasse Hast
+n12921868	P527	Jean Beauvoir
+n03070193	P527	Jed Davis
+n07723559	P527	Jeff Bhasker
+n09646220	P527	Jeff Cook
+n09794917	P527	Jeff Waters
+n06449735	P527	Jeremiah
+n10154186	P527	Jérôme Reuter
+n04274214	P527	Jill Jackson
+n10329579	P527	JJ Polachek
+n00452734	P527	Joakim Karlsson
+n10621140	P527	Joaquín Levinton
+n12288823	P527	Jody Bleyle
+n02041678	P527	Johan Wohlert
+n10223744	P527	John
+n12243459	P527	John Du Cann
+n10357349	P527	John Foxx
+n09778392	P527	John Gosling
+n10313239	P527	John Masters
+n10162194	P527	John McBain
+n06270541	P527	Johnny Gill
+n04610013	P527	Jona Bechtolt
+n02041678	P527	Jonas Bjerre
+n00452734	P527	Jonas Renkse
+n02060411	P527	Jonathan Meiburg
+n02381744	P527	Jonttu Virta
+n10643584	P527	Jools Holland
+n07983856	P527	Jörð
+n13382306	P527	Josef Tingbratt
+n07724269	P527	Josep Mas Portet
+n01884476	P527	Josh Thomas
+n06449735	P527	Joshua
+n07983856	P527	Jötnar
+n06593542	P527	Joyrex J4 EP
+n06593542	P527	Joyrex J5 EP
+n06593542	P527	Joyrex J9i
+n06593542	P527	Joyrex J9ii
+n03061674	P527	joystick
+n09493374	P527	JP Leppäluoto
+n07890226	P527	Juan Son
+n06449735	P527	Judges
+n03843092	P527	judicial review
+n02381744	P527	Juha Seittonen
+n03318865	P527	Juho Kauppinen
+n07562172	P527	juice
+n07711569	P527	juice
+n09756961	P527	Jukka Kolehmainen
+n06327870	P527	Julia Johnson
+n10555430	P527	Julian Cope
+n02138777	P527	Julien Josselin
+n09756961	P527	Jussi Ahlroth
+n03579982	P527	Justin Broadrick
+n02421449	P527	JWHOIS
+n12771390	P527	Kaki
+n12771390	P527	Kaki
+n12771390	P527	Kaki
+n02111889	P527	Kamassian
+n10229193	P527	kamikaze
+n10782940	P527	Kang Seung-yoon
+n10538082	P527	Kangmin
+n09674631	P527	Kannada grapheme
+n08289089	P527	kaolin
+n04230808	P527	Kassette
+n02579928	P527	Kazuhiro Fujiwara
+n04128499	P527	keel
+n13139918	P527	keel
+n09820044	P527	Kelly Shaefer
+n04535524	P527	Kendji Girac's albums in chronological order
+n12290975	P527	Kenickie
+n10243872	P527	Kenji Nojima
+n08560295	P527	Kent Hughes
+n03843092	P527	kerosene
+n07834872	P527	ketchup
+n07719058	P527	keto-D-fructose
+n03579982	P527	Kevin Martin
+n13904843	P527	Kevin McMahon
+n03530803	P527	Kevin Preston
+n03709363	P527	Kex Gorin
+n02380583	P527	Kiger Mustang
+n10782940	P527	Kim Jin-woo
+n07997703	P527	kin
+n02907873	P527	Kina
+n04244847	P527	Kinde
+n12903503	P527	Kinde
+n03314028	P527	king
+n03231912	P527	King Coffey
+n12427184	P527	Kings Island
+n02027357	P527	Kirby Gregory
+n03138344	P527	Kirk Windstein
+n04267091	P527	Kladow
+n01604330	P527	klingon Bird of Prey
+n03654826	P527	knee
+n03622698	P527	knee joint
+n10420031	P527	kneeling
+n13156592	P527	kneeling
+n08388871	P527	knight
+n03314028	P527	knight
+n10692090	P527	knowledge
+n11915214	P527	Kōji Kikkawa
+n09718217	P527	Korean Japanese
+n01319339	P527	Kostas Tournas
+n04212573	P527	Krung Thep dialect
+n10538082	P527	Kyle
+n07613266	P527	ladyfinger
+n10221040	P527	Lamar Lowder
+n07896661	P527	lamb meat
+n07588688	P527	lamb meat
+n07591049	P527	lamb meat
+n06449735	P527	Lamentations
+n10280034	P527	Lamia
+n04335886	P527	lamp
+n04467665	P527	landau
+n03212114	P527	landfill
+n06209940	P527	landform
+n06209940	P527	landscape element
+n04097622	P527	lane
+n08477511	P527	Lao
+n09719794	P527	Laotian letter
+n03642806	P527	laptop hinge
+n07881625	P527	lard
+n02983741	P527	large intestine
+n07870167	P527	lasagne sheet
+n03643253	P527	Laser
+n03643737	P527	laser
+n03643253	P527	Laserpitium
+n03731164	P527	latex
+n10247880	P527	Latin or Greek word
+n09710164	P527	Latin or Greek word
+n10247880	P527	Latin word
+n09620794	P527	Laura Mayne
+n09493374	P527	Lauri Tuohimaa
+n04310018	P527	leading wheel
+n12907465	P527	leaf
+n13152742	P527	leaf blade
+n07860629	P527	Lecanora esculenta
+n09679028	P527	Lee Altus
+n10782940	P527	Lee Seung-hoon
+n07588817	P527	leek
+n10221040	P527	Leeno Dee
+n06475589	P527	Lees-Haley Fake Bad Scale
+n04485423	P527	left panel
+n10782471	P527	left wing
+n09968845	P527	legal counsellor
+n08386555	P527	legal engineering
+n10332861	P527	legal mother
+n01860187	P527	Leia
+n07812790	P527	lemon
+n07928367	P527	lemon
+n14908822	P527	lemon juice
+n07806879	P527	lemon juice
+n07916041	P527	lemon twist
+n03196062	P527	lens
+n06616806	P527	lens
+n03857828	P527	lens
+n04070207	P527	lens
+n02943241	P527	lens
+n07588574	P527	lentil
+n02431628	P527	lentil
+n02850950	P527	Les Claypool
+n12731401	P527	Les Peupliers
+n02421449	P527	less
+n09644152	P527	letter of the Mongolian script
+n07697100	P527	lettuce
+n12239647	P527	Leucothoë
+n07583066	P527	levelling
+n06449735	P527	Leviticus
+n10185327	P527	Lexa
+n02421449	P527	LibreJS
+n11552133	P527	lichen
+n03725600	P527	lid
+n03593526	P527	lid
+n06269130	P527	lide
+n03665924	P527	light diffuser
+n03665924	P527	light-emitting component
+n04074963	P527	light-emitting diode
+n04178329	P527	Lighthouse of Alexandria
+n02421449	P527	LilyPond
+n07925327	P527	lime
+n07583066	P527	lime juice
+n14931323	P527	limestone
+n10205344	P527	Lina Rafn
+n09436531	P527	line
+n03795758	P527	linear motion
+n03376279	P527	liner notes
+n07639069	P527	lingerie
+n03909160	P527	linkage
+n03431570	P527	linkage
+n03988926	P527	lintel
+n02421449	P527	Linux-libre
+n03355768	P527	lip
+n02824448	P527	lip
+n12532886	P527	liquorice root
+n03434943	P527	literary technique
+n14941642	P527	litmus
+n03752071	P527	Live at Doushisha University
+n07858197	P527	liver
+n03277149	P527	loading voltage
+n07870894	P527	lobster
+n07591236	P527	lobster
+n03380301	P527	lock
+n03431745	P527	locomotive
+n07747607	P527	locule
+n08558963	P527	lodging
+n10113583	P527	Lol Tolhurst
+n04109335	P527	Lord's Prayer
+n03579982	P527	Lou Ciccotelli
+n02757462	P527	loudspeaker
+n03743279	P527	loudspeaker
+n10610850	P527	Louise Wener
+n08539557	P527	lover
+n11831874	P527	Lower Belvedere
+n07896765	P527	Lower Moselle
+n03821898	P527	Lower Peninsula of Michigan
+n02690941	P527	lower respiratory tract
+n04219067	P527	Lower Silesia
+n07582609	P527	Luca Ferrari
+n08560295	P527	Lucky Oceans
+n09358226	P527	lunar soil
+n12385830	P527	luteolin
+n10617024	P527	Lynn Strait
+n09861287	P527	M1895 Colt-Browning machine gun
+n07871234	P527	macaroni
+n07807834	P527	macaroni
+n07983856	P527	Machine 15
+n03736970	P527	machine element
+n09349797	P527	machine element
+n03467517	P527	machine head
+n12665048	P527	madder
+n03963028	P527	Mads Keiser
+n03948459	P527	magazine
+n10077394	P527	Maggie Reilly
+n03704926	P527	magic realist fiction
+n03704926	P527	magic realist play
+n04391838	P527	Magnetic particles
+n09874862	P527	maid of honor
+n10352299	P527	Maite Larburu
+n12145477	P527	maize
+n07587618	P527	maize
+n07589543	P527	maize
+n12950669	P527	maize
+n02801184	P527	major basilica
+n09972010	P527	male cousin
+n07601809	P527	maltose
+n02124157	P527	Maltralian
+n09698108	P527	Manchu
+n03594277	P527	mandible
+n06501918	P527	Manifest, season 1
+n10150556	P527	Manifest, season 2
+n06501918	P527	Manifest, season 3
+n03543112	P527	Manu Chao
+n07616748	P527	maraschino cherry
+n09684609	P527	Marathi people
+n04404200	P527	Marc Moulin
+n12903503	P527	Marco Hietala
+n13237988	P527	Marcus Borgersen Bringaker
+n10295951	P527	Mareşal
+n03877472	P527	Margaret French
+n02473857	P527	Margaret Urlich
+n03282933	P527	margarita glass
+n02125494	P527	margay
+n10295951	P527	Mariscal de Yugoslavia
+n04509815	P527	marital debt
+n07592768	P527	marjoram
+n02406952	P527	Mark
+n02406952	P527	Mark
+n02402425	P527	Mark Browning
+n06327870	P527	Mark Maclaine
+n10767837	P527	Mark Zonder
+n03722288	P527	market hall
+n03722288	P527	market square
+n07726525	P527	marrowfat peas
+n10295951	P527	Marshal
+n10295951	P527	Marshal of France
+n10295951	P527	Marshal of Italy
+n10295951	P527	Marshal of Romania
+n10295951	P527	Marshal of the People's Republic of China
+n10295951	P527	Marshal of the Russian Federation
+n10295951	P527	Marshal of the Soviet Union
+n07610502	P527	marshmallow SIIUU
+n01595624	P527	Martin
+n01595624	P527	Martin
+n00452734	P527	Martin Axenrot
+n07591961	P527	Marvel Universe
+n07820145	P527	Mary
+n02111626	P527	Masamune Kusano
+n07613266	P527	mascarpone
+n07866015	P527	mashed potato
+n07624757	P527	mashed potato
+n05482922	P527	Mason Jones
+n04128499	P527	mast
+n10043643	P527	Master of Economics
+n03612965	P527	mastoid antrum
+n03612965	P527	mastoid cell
+n08645847	P527	Masumi Yagi
+n09972010	P527	maternal cousin
+n10142391	P527	maternal grandfather
+n02111889	P527	Mator
+n03579791	P527	Matra
+n02302620	P527	Matt and Bubba Kadane
+n02072798	P527	Matt Suggs
+n03835412	P527	Matthew Bower
+n00813336	P527	Matthew Nelson
+n04178329	P527	Mausoleum of Maussollos
+n07724269	P527	Max Sunyer
+n03594277	P527	maxilla
+n07835173	P527	mayonnaise
+n07834872	P527	mayonnaise
+n07833672	P527	mayonnaise
+n07625061	P527	meat
+n07590068	P527	meat
+n07807002	P527	meat
+n07880080	P527	meat
+n03008177	P527	meat
+n07590320	P527	meat
+n07876026	P527	meat
+n07871436	P527	meat
+n07873464	P527	meat
+n07579917	P527	meat
+n07573103	P527	meat
+n07587206	P527	meat
+n03700963	P527	mechanism
+n06470073	P527	media
+n04217882	P527	media
+n02757462	P527	media player software
+n02421449	P527	MediaGoblin
+n03249342	P527	medication
+n02813645	P527	Mehmet Ozan
+n09287968	P527	member
+n03384535	P527	member of class (philosophy)
+n08521623	P527	memorial
+n03196062	P527	memory card
+n09636106	P527	men of color
+n07606278	P527	Mentha
+n01824344	P527	Menüçehr Mosque
+n04581829	P527	merchant vessel
+n08407619	P527	mercury
+n07610620	P527	meringue
+n02524524	P527	Merlucciidae
+n11684264	P527	mesocarp
+n02962200	P527	metering pump
+n03733925	P527	metrological mechanism
+n10300654	P527	Michael Beinhorn
+n06270541	P527	Michael Bivins
+n03963028	P527	Michael Car?e
+n03705379	P527	Michael Cole
+n08168831	P527	Michael Cooper
+n09877370	P527	Michael Mayer
+n10025060	P527	Michael Poulsen
+n09966139	P527	Michael Shannon
+n10119685	P527	Michel Bonneval
+n04404200	P527	Michel Moers
+n12921868	P527	Micki Free
+n03982060	P527	microorganism
+n03505667	P527	microphone
+n02757462	P527	microphone
+n03743279	P527	microphone
+n03488438	P527	microphone
+n10335563	P527	middle mouse button
+n03189083	P527	middlegame
+n07564796	P527	Mielie-meal
+n09667097	P527	migaine
+n00452734	P527	Mikael Åkerfeldt
+n09756961	P527	Mikael Arnkil
+n07735510	P527	Mikako Shiroyama
+n00469651	P527	Mike Kinsella
+n09813696	P527	Mikhail Grachyov
+n07764155	P527	Mikhal Tsafir
+n09782167	P527	Miki Berenyi
+n10219240	P527	Miki Imai albums in chronological order
+n13063269	P527	Mikko Herranen
+n08433727	P527	military aviation
+n03540595	P527	military hospital
+n02926188	P527	military raid
+n07620597	P527	milk
+n07619004	P527	milk
+n07614500	P527	milk
+n07854455	P527	milk
+n07616046	P527	milk
+n07868200	P527	milk
+n07850219	P527	milk
+n07853445	P527	milk
+n07849336	P527	milk
+n07691091	P527	milk
+n07852833	P527	milk
+n07610746	P527	milk
+n07852614	P527	milk
+n07854066	P527	milk
+n07613158	P527	milk
+n05443966	P527	milk
+n07854455	P527	Milk Pasteurization
+n09354984	P527	Milky Way Galactic pole
+n08386365	P527	millionaire
+n03460899	P527	millstone
+n10538082	P527	Milo
+n07878647	P527	minced meat
+n07872593	P527	minced meat
+n03768132	P527	mine opening
+n08658309	P527	mineral
+n03843092	P527	mineral oil
+n03499796	P527	mineral spring
+n10591811	P527	Mini Shopaholic
+n02382635	P527	Miniature Shetland pony
+n02801184	P527	minor basilica
+n10538082	P527	Minsung
+n07915491	P527	Mint Julep
+n07584938	P527	mirepoix
+n07764155	P527	Miri Nevo
+n04068601	P527	mirror
+n06616806	P527	mirror
+n02943241	P527	mirror
+n03665924	P527	mirror
+n09944022	P527	Mitch Lucker
+n07896765	P527	Mittelmosel
+n02666943	P527	model building
+n03778302	P527	modification
+n04472726	P527	modulator
+n10344121	P527	Mohammad Amil Hussein
+n09657887	P527	Mohawk people
+n07915491	P527	Mojito
+n03781244	P527	monastery church
+n01824344	P527	Monastery of the Virgins
+n03781244	P527	monastic cell
+n03781244	P527	monastic garden
+n07963987	P527	Mongolian
+n09718217	P527	Mongolian Japanese
+n09690208	P527	Mongolic
+n13898315	P527	monospaced font
+n01460108	P527	Monster Island
+n01460108	P527	Monster Nation
+n01460108	P527	Monster Planet
+n09358226	P527	Montes Pyrenaeus
+n02379329	P527	Morgan Fisher
+n07993109	P527	morphology
+n03699591	P527	Moshe Pinhas
+n03642806	P527	motherboard
+n03918480	P527	motherboard
+n03533486	P527	motion
+n02834778	P527	motorcycle engine
+n02834778	P527	motorcycle fairing
+n02834778	P527	motorcycle handlebar
+n02834778	P527	motorcycle saddle
+n02409038	P527	mountain anoa
+n03918480	P527	mouse
+n10335563	P527	mouse button
+n02824448	P527	mouth
+n04310018	P527	Moving Pictures
+n07873807	P527	mozzarella
+n13912839	P527	mullet of 6 points pierced
+n04461437	P527	municipal archive Zurzach
+n10281637	P527	Murad Khan Langa
+n03799710	P527	mural painting
+n03612965	P527	muscle of auditory ossicle
+n13096035	P527	muscle organ
+n13137010	P527	muscle organ
+n07876893	P527	mush
+n12992868	P527	mushroom
+n03574816	P527	musical instrument part
+n03614532	P527	musical keyboard
+n03357267	P527	musical keyboard
+n03032811	P527	musical work
+n07713763	P527	mustard seed
+n12992868	P527	mycelium
+n07993109	P527	mycology
+n04109335	P527	Mysteries of the Rosary
+n06449735	P527	Nahum
+n10782940	P527	Nam Tae-hyun
+n03813078	P527	narthex
+n03831062	P527	nasal bone
+n03831062	P527	nasal cavity
+n03831062	P527	nasal hair
+n02508742	P527	Nasua
+n02508742	P527	Nasuella
+n01529672	P527	Nate Barcalow
+n02472987	P527	nation
+n07924655	P527	natural latex
+n03467517	P527	neck
+n01324431	P527	necrophagia
+n10036444	P527	Neil Brewer
+n02111889	P527	Nenets
+n03300216	P527	network switch
+n03622698	P527	neural network of knee
+n07993109	P527	neurobiology
+n03880129	P527	neuroglia
+n03880129	P527	neuron
+n02111889	P527	Nganasan
+n03388183	P527	nib
+n10435251	P527	Nic Cester
+n08173165	P527	Nicaragua
+n02907873	P527	Nicci Gilbert
+n02424305	P527	Nicci Kasper
+n10203135	P527	Nicholas Galanin
+n10765305	P527	Nick Glennie-Smith
+n00452734	P527	Nick Holmes
+n07983856	P527	Níðhöggr
+n02723754	P527	Nikos Panagiotidis
+n07859142	P527	nitrogen
+n04969617	P527	nitrogen
+n06262567	P527	nitrogen
+n15092650	P527	nitrogen
+n15092059	P527	nitrogen
+n02975994	P527	nitrogen
+n10165109	P527	nitrogen
+n12906771	P527	nitrogen
+n11849271	P527	nitrogen
+n14810561	P527	nitrogen
+n08388503	P527	noble
+n03300216	P527	node
+n10129825	P527	non-biological daughter
+n10332861	P527	non-biological mother
+n10602985	P527	non-biological sister
+n10624074	P527	non-biological son
+n07865484	P527	noodle
+n10281637	P527	Noor Khan Langa
+n09354984	P527	Norma Arm
+n07983856	P527	Norse cosmology
+n07983856	P527	Norse dwarves
+n13898899	P527	Northern celestial hemisphere
+n02387346	P527	Northfarthing
+n08172877	P527	Norway
+n03159640	P527	nose
+n03138128	P527	note head
+n03834040	P527	nuclear reactor coolant
+n03834040	P527	nuclear reactor core
+n01329935	P527	nucleic acids
+n09395266	P527	nucleotides
+n06449735	P527	Numbers
+n03085013	P527	numeric keypad
+n03467517	P527	nut
+n07855413	P527	nut
+n03836976	P527	nylon 6
+n03836976	P527	nylon 6-6
+n10368798	P527	Nymphomaniac Part One
+n10368798	P527	Nymphomaniac Part Two
+n09725402	P527	Nynorsk
+n07685303	P527	oatmeal
+n06449735	P527	Obadiah
+n03314028	P527	Ober
+n06026276	P527	observable universe
+n10369528	P527	Observer
+n03099945	P527	observer
+n04232153	P527	occipital bone
+n02125494	P527	ocelot
+n02540412	P527	odor
+n03317340	P527	offal
+n07586179	P527	offal
+n07873807	P527	oil
+n07691091	P527	oil
+n07835051	P527	oil
+n07589543	P527	okra
+n07733394	P527	okra
+n07888058	P527	Oktoberfest tents
+n09747722	P527	Old High German
+n03831062	P527	Olfactory mucosa
+n07858336	P527	olive
+n07916041	P527	olive
+n07832416	P527	olive oil
+n07585758	P527	olive oil
+n07834774	P527	olive oil
+n14908822	P527	olive oil
+n07806879	P527	olive oil
+n02125494	P527	oncilla
+n09657887	P527	Oneida
+n07587618	P527	onion
+n07697100	P527	onion
+n07865484	P527	onion
+n07733394	P527	onion
+n07592768	P527	onion
+n07692405	P527	onion
+n07684422	P527	onion
+n07881625	P527	onion
+n09657887	P527	Onondaga people
+n03849814	P527	Opera Touch
+n10184290	P527	operating system
+n04413723	P527	operation
+n09252970	P527	opposition
+n10335563	P527	optical instrument
+n07926920	P527	orange
+n07924834	P527	orange
+n07643764	P527	orange
+n07916437	P527	orange slice
+n06426865	P527	orbital elements
+n03273551	P527	organ case
+n03273551	P527	organ console
+n03273551	P527	organ pipe
+n03273551	P527	organ stop
+n00004475	P527	organ system
+n09354984	P527	Orion Arm
+n02560110	P527	Oskar Linnros
+n05217168	P527	osteology
+n11676500	P527	ovary
+n02776631	P527	oven
+n07639069	P527	overdrafting
+n07586485	P527	oxtail
+n07859142	P527	oxygen
+n07566863	P527	oxygen
+n06262567	P527	oxygen
+n15092650	P527	oxygen
+n04963449	P527	oxygen
+n15092059	P527	oxygen
+n02975994	P527	oxygen
+n04968257	P527	oxygen
+n02992368	P527	oxygen
+n14914945	P527	oxygen
+n14810561	P527	oxygen
+n07858841	P527	oxygen
+n14900184	P527	oxygen
+n14919819	P527	oxygen
+n07591162	P527	oyster
+n07639069	P527	ozone depletion
+n10390050	P527	Pachucas
+n03243218	P527	package management system
+n02879718	P527	pad
+n02870092	P527	page
+n08436759	P527	paleobotany
+n08436759	P527	palynology
+n08173165	P527	Panama
+n02801184	P527	papal basilica
+n03887512	P527	paper machine
+n13897002	P527	parabola
+n13872975	P527	parabola
+n03267468	P527	parachute
+n03843092	P527	paraffin wax
+n09972010	P527	parallel cousin
+n12658481	P527	parasorbic acid
+n04232153	P527	parietal bone
+n03890881	P527	parking space
+n07870167	P527	Parmesan cheese
+n07832416	P527	Parmesan cheese
+n07806879	P527	Parmesan cheese
+n07812046	P527	parsley
+n07808904	P527	parsley
+n02758134	P527	parterre
+n03405725	P527	particle board
+n09493374	P527	Pasi Sipil?
+n04192238	P527	passive protection
+n07807710	P527	pasta
+n07866277	P527	pastry
+n07613480	P527	pastry cream
+n07693590	P527	pastry dough
+n06551627	P527	patent application
+n09972010	P527	paternal cousin
+n10142391	P527	paternal grandfather
+n06423378	P527	path separator
+n02801184	P527	patriarchal basilica
+n03002341	P527	Patrick Wimberly
+n04118776	P527	pattern in nature
+n07697100	P527	patty
+n07697313	P527	patty
+n03877472	P527	Paul Cadmus
+n04201845	P527	Paul Garisto
+n03705379	P527	Paul Giovanni
+n07714895	P527	Paul Waaktaar-Savoy
+n02381744	P527	Pave Maijanen
+n09813696	P527	Pavel Kuzin
+n10205344	P527	Paw Lagermann
+n04055180	P527	pawl
+n05449073	P527	Pdgfb
+n05448149	P527	Pdgfra
+n05448149	P527	Pdgfrb
+n07625061	P527	pea
+n07586604	P527	pea
+n07639069	P527	peace
+n07832202	P527	peach
+n09862345	P527	Pearl Lowe
+n07831146	P527	Pecorino
+n07832416	P527	Pecorino Sardo
+n03273551	P527	pedal keyboard
+n07953499	P527	pedophilia
+n11674332	P527	Peduncle
+n04536866	P527	pegbox
+n03906463	P527	Pelham
+n03906463	P527	Pelham
+n03909406	P527	pendulum
+n03909160	P527	pendulum bob
+n01871875	P527	penis
+n09747722	P527	Pennsylvania German
+n02381744	P527	Pepe Laaksonen
+n07831146	P527	peppercorn
+n03159640	P527	peppermint leaf
+n00452734	P527	Per Eriksson
+n04450465	P527	percussion cap
+n02977822	P527	percussion cap
+n14915622	P527	perfect rhyme
+n03594148	P527	periodontology
+n03916720	P527	peripheral controller
+n09354984	P527	Perseus Arm
+n07954731	P527	person
+n03581756	P527	personal computer
+n02381744	P527	Pertti Neumann
+n11691332	P527	petal
+n02964389	P527	Pete Francis Heimbold
+n02381744	P527	Pete Nuotio
+n02813645	P527	Peter Bastian
+n03705379	P527	Peter Brewis
+n08560295	P527	Peter Busher
+n04388574	P527	Péter Fabók
+n03963028	P527	Peter Kær
+n00452734	P527	Peter Tägtgren
+n13152742	P527	petiole
+n03249342	P527	pharmacist
+n07591961	P527	Phaseolus lunatus
+n08436759	P527	phenology
+n04372756	P527	Phillip Ingram
+n03752071	P527	Phillo Jazz
+n13096863	P527	phloem
+n10267311	P527	Phonte
+n05448149	P527	phosphate(3−) ion
+n07710616	P527	phosphoric acid
+n15056372	P527	phosphorus
+n14961375	P527	phosphorus
+n02975994	P527	phosphorus
+n03643737	P527	photo conductor unit
+n12987056	P527	photobiont
+n02942699	P527	photosensitive materials
+n02524524	P527	Phycidae
+n09956035	P527	physical contact
+n08436759	P527	phytochemistry
+n08436759	P527	phytogeography
+n08436759	P527	phytosociology
+n07825597	P527	pickling
+n03272010	P527	pickup
+n04112752	P527	pigment
+n04581102	P527	pigment
+n04310018	P527	pilot
+n07834872	P527	Pimiento
+n07832416	P527	pine nut
+n07610502	P527	pineapple
+n07925116	P527	pineapple
+n03944672	P527	pipe
+n03944672	P527	pipe support
+n07806879	P527	Piper nigrum
+n02584449	P527	Piranha
+n02584449	P527	Piranha 3D
+n02584449	P527	Piranha 3DD
+n02584449	P527	Piranha II: The Spawning
+n13093852	P527	pistil
+n04062179	P527	piston
+n04499180	P527	Pitchblende
+n03239399	P527	plain bearing
+n04114996	P527	plane iron
+n03405725	P527	plank
+n05217168	P527	plant anatomy
+n08436759	P527	plant anatomy
+n00017222	P527	plant community
+n08436759	P527	plant ecology
+n08436759	P527	Plant evolutionary developmental biology
+n08436759	P527	plant genetics
+n08436759	P527	plant morphology
+n08436759	P527	plant physiology
+n08436759	P527	plant reproduction
+n15062057	P527	plaster
+n14866769	P527	plastic
+n04381994	P527	plate
+n10409459	P527	platinum
+n02152991	P527	player
+n06545137	P527	plica
+n02785648	P527	plot
+n03944672	P527	plumbing
+n04376876	P527	plunger
+n14932303	P527	pluton
+n07736813	P527	Poetic Edda
+n07000941	P527	point
+n09349648	P527	point bar
+n08172695	P527	Poland
+n07943870	P527	polarity chron
+n06532330	P527	police officer
+n02105855	P527	police raid
+n09968845	P527	political counselor
+n06534548	P527	political law
+n10187557	P527	political security
+n11675245	P527	pollen sac
+n02992032	P527	polling place
+n12731401	P527	Poplars
+n12731401	P527	Poplars (Autumn)
+n12731401	P527	Poplars (Wind effect)
+n12731401	P527	Poplars at Giverny, Sunrise
+n12731401	P527	Poplars in the Sun
+n12731401	P527	Poplars on the Bank of the Epte River
+n04062179	P527	poppet valve
+n07589967	P527	pork and beans
+n07808675	P527	pork meat
+n10702483	P527	pork meat
+n07589458	P527	pork meat
+n07877849	P527	pork meat
+n07573347	P527	pork meat
+n07876893	P527	pork meat
+n08172695	P527	Portugal
+n04969617	P527	potassium
+n03994008	P527	potassium nitrate
+n07711232	P527	potato
+n07863229	P527	potato
+n07711569	P527	potato
+n07625061	P527	potato
+n07710952	P527	potato
+n07807594	P527	potato
+n07588817	P527	potato
+n01880152	P527	Potoroidae
+n04239436	P527	pouch
+n02905036	P527	poussin
+n03458422	P527	power station
+n03918480	P527	power supply
+n03180011	P527	power supply unit
+n10463028	P527	praetor peregrinus
+n10463028	P527	praetor urbanus
+n06533648	P527	Preamble to the United States Constitution
+n01324431	P527	predation
+n10326551	P527	Presbytery of Peebles
+n07572957	P527	preserved food
+n03072056	P527	primary color
+n06535222	P527	primary legislation
+n03918480	P527	primary memory
+n04450465	P527	primer
+n04074963	P527	printed circuit board
+n04486054	P527	Printed text for "The Betrothal of Maximilian with Mary of Burgundy"
+n04486054	P527	Printed text for "The Betrothal of Philip the Fair with Joan of Castile"
+n04005197	P527	priory church
+n03540595	P527	private hospital
+n08454003	P527	private international law
+n03711711	P527	processor design
+n00445802	P527	professional boxing
+n11552133	P527	Progymnosperm
+n04450465	P527	projectile
+n02977822	P527	projectile
+n04592962	P527	prompt corner
+n04450465	P527	propellant
+n02977822	P527	propellant
+n01970667	P527	propeller
+n13898315	P527	proportional font
+n04013060	P527	propulsor
+n04296562	P527	proscenium
+n02758134	P527	proscenium theater box
+n07736813	P527	Prose Edda
+n07844604	P527	protein
+n11552133	P527	Protosalvinia
+n06449735	P527	Proverbs
+n07824268	P527	Prunus domestica
+n02380583	P527	Pryor Mountain Mustang
+n06417467	P527	Psalms
+n06449735	P527	Psalms
+n12156819	P527	pseudocereal
+n12665048	P527	Pseudopurpurin
+n03540595	P527	psychiatric hospital
+n05448149	P527	Pth
+n05448149	P527	Pth1r
+n03297735	P527	public administration
+n09875786	P527	public broadcasting
+n03540595	P527	public hospital
+n08454003	P527	public international law
+n10187557	P527	public security
+n06473168	P527	publication right
+n04604276	P527	publicly indexable web
+n06266417	P527	publishing
+n03525074	P527	pulley
+n07747607	P527	pulp
+n03887512	P527	pulp mill
+n09684609	P527	Punjabi Hindus
+n12665048	P527	purpurin
+n04074963	P527	push-button
+n03613873	P527	push-button
+n04968257	P527	push-button
+n02893608	P527	pyloric part
+n12022382	P527	pyrethrin
+n02124157	P527	Qormi dialect
+n09252970	P527	quadrature
+n09300674	P527	quark
+n04424218	P527	quark or lepton
+n03314028	P527	queen
+n12279458	P527	quercetagetin
+n12279458	P527	quercetin
+n12279458	P527	quercitannic acid
+n12279458	P527	quercitrin
+n07929519	P527	R.wan
+n09902611	P527	Ra McGuire
+n07591961	P527	rabbit meat
+n13132756	P527	raceme
+n13132656	P527	raceme
+n04039848	P527	radar antenna
+n03508101	P527	radiator
+n02995151	P527	radiator
+n09875979	P527	radio journalist
+n04039848	P527	radio receiver
+n09875786	P527	radio station
+n04042632	P527	radio telescope
+n07870167	P527	ragù
+n04048075	P527	rail infrastructure
+n03431745	P527	railroad car
+n04049098	P527	railroad switch
+n03272562	P527	railway coupling
+n04310018	P527	railway coupling
+n04048075	P527	railway line
+n04049098	P527	railway platform
+n04048075	P527	railway station
+n07684517	P527	raisin
+n07690892	P527	raising agent
+n06270541	P527	Ralph Tresvant
+n04050410	P527	ram head
+n03642806	P527	random-access memory
+n09646220	P527	Randy Owen
+n04244847	P527	Rane Raitsikka
+n02138777	P527	Raphaël Descraques
+n04054213	P527	rapid transit railway line
+n04054213	P527	rapid transit train service
+n06518420	P527	Ray Flacke
+n03934998	P527	Raymond Watts
+n06592991	P527	reading room
+n03077958	P527	receiver
+n04071712	P527	recorded information
+n03180011	P527	recording medium
+n03642806	P527	recording medium
+n07926920	P527	red wine
+n07861557	P527	red wine
+n04067143	P527	reed
+n03781244	P527	refectory
+n13153633	P527	reform
+n10122858	P527	Regina Poetiray
+n10517283	P527	Regius Professor of Civil Law
+n10517283	P527	Regius Professor of Civil Law
+n10517283	P527	Regius Professor of Divinity
+n10517283	P527	Regius Professor of Divinity
+n10517283	P527	Regius Professor of Engineering
+n10517283	P527	Regius Professor of Engineering
+n10517283	P527	Regius Professor of Military Surgery
+n10517283	P527	Regius Professor of Physics
+n10517283	P527	Regius Professor of Physiology
+n10517283	P527	Regius Professor of Physiology
+n04592962	P527	rehearsal room
+n06552639	P527	release from prison
+n03028079	P527	religious community
+n09493374	P527	religious habit
+n06473168	P527	reproduction right
+n03517899	P527	reredos
+n06266417	P527	research
+n09327538	P527	resonant trans-Neptunian object
+n08477511	P527	Return to Castle Wolfenstein
+n06453849	P527	Revelation of John
+n04086446	P527	revolver cartridge
+n11552133	P527	Rhyniopsida
+n00433802	P527	rhythmic gymnastics
+n07591961	P527	rice
+n07869611	P527	rice
+n03603199	P527	rice
+n07862095	P527	rice
+n07869937	P527	rice
+n07804657	P527	rice
+n07875436	P527	rice
+n07873464	P527	rice
+n06270541	P527	Ricky Bell
+n06426865	P527	right ascension
+n10335563	P527	right mouse button
+n04485423	P527	right panel
+n10782471	P527	right wing
+n02834778	P527	rigid frame
+n04335209	P527	road
+n03640589	P527	road surface
+n03944341	P527	Rob Dickinson
+n12642090	P527	Rob Parissi
+n09813696	P527	Róbert Semënovič Lénc
+n03267468	P527	rocket engine
+n01603600	P527	Rocky Votolato
+n02639605	P527	Rod Morgenstein
+n10223744	P527	Roe
+n10331841	P527	Roger J. Beaujard
+n07589872	P527	rolled oats
+n04048075	P527	rolling stock
+n03239399	P527	rolling-element bearing
+n04225987	P527	rolling-element bearing
+n07806879	P527	Romaine lettuce
+n07978924	P527	Roman mythology
+n09635973	P527	Romance
+n13919919	P527	Ron Keel
+n06270541	P527	Ronnie DeVoe
+n03416489	P527	roof
+n02913152	P527	roof
+n02968074	P527	roof
+n08007534	P527	room
+n01791625	P527	rooster
+n07820145	P527	Rose
+n11536087	P527	Rose McDowall
+n03187595	P527	rotary dial
+n02855089	P527	rotor
+n03273061	P527	rotor
+n09747722	P527	Rotwelsch
+n03446528	P527	rough
+n07591586	P527	rouille
+n07733394	P527	roux
+n10099375	P527	rover
+n12731401	P527	Row of poplars in autumn
+n04115456	P527	rowlock
+n02758134	P527	Royal box (theater)
+n10472799	P527	Royal prince
+n10099375	P527	ruckman
+n02152991	P527	rule
+n08172695	P527	Russia
+n08172695	P527	Russia
+n09718217	P527	Russian Japanese
+n06449735	P527	Ruth
+n07890617	P527	rye bread
+n03579791	P527	Saab Group
+n03888257	P527	safety harness
+n03267468	P527	safety harness
+n04057047	P527	safety razor
+n07591961	P527	saffron
+n02426176	P527	Saiga
+n02426176	P527	Saiga
+n04128499	P527	sail
+n01970667	P527	sail
+n04128499	P527	sailing ballast
+n04509985	P527	Saint Patrick's Saltire
+n12836212	P527	Saki
+n09717566	P527	Salentino
+n03467887	P527	Samara Gulag
+n10183931	P527	Samaritan
+n12903503	P527	Sami Yli-Sirniö
+n06281175	P527	sampling
+n02114712	P527	Samy Elbanna
+n14942223	P527	sand
+n02824448	P527	Sascha Pierro
+n11855553	P527	sashimi
+n07589458	P527	sauerkraut
+n07589458	P527	sausage
+n07873348	P527	sausage
+n03996145	P527	saw blade
+n03996145	P527	saw tooth
+n10281637	P527	Sayari Sapera
+n08173030	P527	Schöbi-Fink
+n04146050	P527	school building
+n04146050	P527	school library
+n04146050	P527	school subject
+n04146976	P527	school system in Germany
+n04146976	P527	School system in South Tyrol
+n04146050	P527	school teacher
+n04146050	P527	schoolchild
+n10702483	P527	Scialpi's albums in chronological order
+n03273551	P527	scientist
+n02879718	P527	screw
+n03725600	P527	screw thread
+n04154152	P527	screw thread
+n03081660	P527	scribal abbreviation
+n04536866	P527	scroll
+n10335563	P527	scroll wheel
+n09354984	P527	Scutum–Centaurus Arm
+n07587441	P527	seafood
+n02831335	P527	seat
+n03267468	P527	seat
+n03638014	P527	seat
+n04576002	P527	seat
+n09376198	P527	seawater
+n06453849	P527	Second Epistle of John
+n06453849	P527	Second Epistle of Peter
+n06453849	P527	Second Epistle to the Corinthians
+n06453849	P527	Second Epistle to the Thessalonians
+n06453849	P527	Second Epistle to Timothy
+n10498699	P527	second quarter
+n14844693	P527	sediment
+n13134947	P527	seed
+n12318378	P527	seed
+n02111889	P527	Selkup
+n09359803	P527	semi-trailer
+n07937461	P527	semolina
+n09657887	P527	Seneca
+n03733925	P527	sensor
+n11691523	P527	sepal
+n08172695	P527	Serbia
+n03418749	P527	Sergio Mayer
+n04219424	P527	sericin
+n03581756	P527	server
+n07858484	P527	sesame seed
+n14931795	P527	set
+n13133613	P527	set of anterior auricular veins
+n10538082	P527	Seunghwan
+n07643764	P527	Seville orange
+n03384167	P527	shaft
+n04284002	P527	shaft
+n04208210	P527	shaft
+n10432957	P527	shaft
+n02742753	P527	shaft
+n09684609	P527	Shaivism
+n04128499	P527	shallow keel
+n10184290	P527	shamanism
+n04137217	P527	Shawn Smith
+n10281637	P527	Shayar Khan Langa
+n02852523	P527	sheave
+n02870880	P527	shelf
+n07870894	P527	Sherry
+n08645847	P527	Shigeo Takahashi
+n08539557	P527	Shigeru Suzuki
+n01495493	P527	Shirley Manson
+n03416900	P527	Shirley Manson
+n14936474	P527	Shlomi Bracha
+n03752071	P527	Shōhinshū Vol. 1
+n03752071	P527	Shōhinshū Vol. 2
+n10591811	P527	Shopaholic Abroad
+n10591811	P527	Shopaholic and Baby
+n10591811	P527	Shopaholic and Sister
+n10591811	P527	Shopaholic Ties the Knot
+n10591811	P527	Shopaholic to the Stars
+n07611267	P527	shortcrust pastry
+n09667097	P527	shortcrust pastry
+n02824448	P527	shoulder
+n04209613	P527	shower head
+n09996636	P527	shuffling
+n03315644	P527	side
+n03136369	P527	sideburns
+n04335209	P527	sidewalk
+n04267091	P527	Siemensstadt
+n10417424	P527	sigmoidoscopy
+n04109335	P527	sign of the cross
+n06281175	P527	signal processing
+n10311021	P527	Signal Protocol
+n02041678	P527	Silas Utke Graae Jørgensen
+n09456369	P527	silicate class of minerals, class number 9
+n14942223	P527	silt
+n11891541	P527	sincerity
+n09684609	P527	Sindhi Hindu
+n00483313	P527	Singles 2: Triple Trouble
+n00483313	P527	Singles: Flirt Up Your Life
+n01336282	P527	single-stranded RNA
+n04227370	P527	sketch
+n06422144	P527	skill
+n03768132	P527	slag heap
+n05448149	P527	Slc17a2
+n05449073	P527	Slc9a1
+n03238879	P527	sleeve
+n03944672	P527	sleeve
+n02421449	P527	SLIB
+n07904637	P527	sloe
+n09303008	P527	slope
+n02983741	P527	small intestine
+n07928887	P527	Smilax ornata
+n01538630	P527	snow crystal
+n11508382	P527	snowflake
+n07639069	P527	social equity
+n09890749	P527	social expectation
+n07806879	P527	society
+n07823105	P527	sodium chloride
+n07844604	P527	sodium chloride
+n07695742	P527	sodium chloride
+n07871065	P527	sodium hydroxide
+n05449073	P527	sodium ion
+n05448149	P527	sodium ion
+n04559910	P527	sodium silicates
+n03100897	P527	Sodium:neurotransmitter symporter, serotonin, N-terminal
+n07562172	P527	soft drink
+n09887034	P527	software
+n03085915	P527	software
+n04257533	P527	software library
+n14844693	P527	soil
+n14844693	P527	Soil gas
+n14844693	P527	soil water
+n07872593	P527	Solanum melongena
+n09450454	P527	solar prominence
+n10341660	P527	somatic mutation
+n13237988	P527	Sondre Borgersen Bringaker
+n10782940	P527	Song Min-ho
+n06449735	P527	Song of Songs
+n04536866	P527	sound board
+n04536866	P527	sound box
+n02757462	P527	sound recording device
+n02824448	P527	sound ring
+n04262969	P527	soundtrack
+n04262969	P527	soundtrack album
+n04262969	P527	soundtrack extended play
+n04262969	P527	soundtrack single
+n04526520	P527	sour cream
+n09844457	P527	Southern Bavarian
+n13898899	P527	Southern Celestial Hemisphere
+n02387346	P527	Southfarthing
+n02914991	P527	space
+n04266014	P527	Space Shuttle external tank
+n04266014	P527	Space Shuttle orbiter
+n04266014	P527	Space Shuttle Solid Rocket Booster
+n06026276	P527	spacetime
+n10463028	P527	SpaceX launch vehicles
+n07831146	P527	spaghetti
+n08172695	P527	Spain
+n04267091	P527	Spandau
+n10292824	P527	Spanish Maquis
+n04049098	P527	Spanish solution
+n04062179	P527	spark plug
+n04182322	P527	spearhead
+n03637618	P527	spearhead
+n10029429	P527	Special Area of Conservation
+n02735086	P527	special collections
+n14931472	P527	Spegeln
+n07868955	P527	spice
+n07583197	P527	spice
+n07588574	P527	spice
+n07823951	P527	spice
+n04277352	P527	spindle whorl
+n07618871	P527	split pea
+n07610890	P527	sponge cake
+n07613671	P527	sponge cake
+n07610620	P527	sponge cake
+n13094273	P527	sporangium
+n13091620	P527	sporangium
+n10357349	P527	spouse
+n05449073	P527	Spp1
+n04303497	P527	spring
+n03731164	P527	spring
+n00479734	P527	squad
+n04509985	P527	St George's Cross
+n04267091	P527	Staaken
+n04592962	P527	stage house
+n04314914	P527	stair riser
+n04298661	P527	stairs
+n13093928	P527	stamen
+n02421449	P527	stamp collecting
+n03612965	P527	stapedius muscle
+n04186848	P527	staple
+n12125890	P527	starch
+n07710616	P527	starch
+n07605380	P527	starch
+n07609728	P527	starch
+n03273061	P527	stator
+n04178329	P527	Statue of Zeus at Olympia
+n06535222	P527	statutory provision
+n04310018	P527	steam boiler
+n04310018	P527	steam dome
+n04310157	P527	steam engine
+n04310018	P527	steam engine
+n03138128	P527	stem
+n10654932	P527	stepfather
+n02733378	P527	Stephen Pearcy
+n13126050	P527	Stephen Richards
+n10654932	P527	stepmother
+n05242622	P527	stereocilia
+n02951358	P527	stern
+n01997119	P527	Steropes
+n10507692	P527	Steve Gould
+n10511425	P527	Steve Krolikowski
+n03067212	P527	Steve Prestwich
+n13919919	P527	Steve Riley
+n12019827	P527	Steviol glycoside
+n02879718	P527	stick
+n04182322	P527	stick
+n03262717	P527	stiffening
+n04160372	P527	stitch
+n07881625	P527	stock
+n02785648	P527	story
+n02913152	P527	story
+n07802246	P527	Stover Country Park
+n07802246	P527	Stover House
+n04057047	P527	straight razor
+n08008017	P527	strap
+n05581932	P527	stratum basale
+n05581932	P527	stratum corneum
+n05581932	P527	stratum granulosum
+n05581932	P527	stratum lucidum
+n05581932	P527	stratum spinosum
+n07615460	P527	strawberry
+n07616748	P527	strawberry ice cream
+n09289331	P527	Stray Kids EPs discography
+n04335209	P527	streetlight
+n07854455	P527	Streptococcus cremoris
+n07854455	P527	Streptococcus lactis
+n02957427	P527	stretcher bar
+n03909160	P527	string
+n03272010	P527	string
+n02913152	P527	structural support
+n09722898	P527	stuffing
+n07880968	P527	stuffing
+n04681230	P527	subatomic particle
+n03140771	P527	submarine-launched cruise missile
+n10561222	P527	Substance
+n02732072	P527	substrate
+n04054213	P527	subway entrance
+n07601809	P527	sucrose
+n07620485	P527	suet
+n07620327	P527	suet
+n07605040	P527	sugar
+n07595914	P527	sugar
+n07823698	P527	sugar
+n07601809	P527	sugar
+n07597365	P527	sugar
+n07612137	P527	sugar
+n07621976	P527	sugar
+n07608339	P527	sugar
+n07599242	P527	sugar
+n07859583	P527	sugar
+n07643764	P527	sugar
+n07620822	P527	sugar
+n07609407	P527	sugar
+n07609728	P527	sugar
+n07608098	P527	sugar
+n07606669	P527	sugar
+n07601686	P527	sugar
+n03012263	P527	sugar
+n07835331	P527	sugar
+n07608245	P527	sugar
+n07684938	P527	sugar
+n07928367	P527	sugar
+n07597263	P527	sugar candy
+n12903503	P527	Suho Superstar
+n03994008	P527	sulfur
+n15092650	P527	sulfur
+n07680416	P527	Sultana
+n10191613	P527	sum
+n07879450	P527	sumeshi
+n09359803	P527	summit
+n09303008	P527	summit
+n03622698	P527	superficial fascia of knee
+n15064729	P527	superoxide anion
+n03094503	P527	surface
+n09778392	P527	survey question
+n09300905	P527	Susanne Lewis
+n06480506	P527	swap
+n08172695	P527	Sweden
+n07599998	P527	sweetener
+n03273551	P527	swell box
+n09747722	P527	Swiss German
+n03272562	P527	switch
+n08172695	P527	Switzerland
+n12822769	P527	Symphytum officinale
+n07598734	P527	syrup
+n07611046	P527	syrup
+n07616386	P527	syrup
+n02942699	P527	system camera
+n07873807	P527	table salt
+n07591961	P527	table salt
+n07813409	P527	table salt
+n07682624	P527	table salt
+n07589872	P527	table salt
+n07831146	P527	table salt
+n07813324	P527	table salt
+n07583066	P527	table salt
+n14908822	P527	tahini
+n03773035	P527	tain
+n09718217	P527	Taiwan Japanese
+n02579928	P527	Takafumi Inomoto
+n04386792	P527	talc
+n09717454	P527	Talian
+n10598641	P527	Tamara Danz
+n02431628	P527	tamarind
+n09684609	P527	Tamil Hindu
+n12836212	P527	Tamu Murata
+n12929783	P527	tannin
+n12339526	P527	tanning agents
+n07880080	P527	tare sauce
+n07812046	P527	tarragon
+n04395495	P527	Tatiana DeMaria
+n08539557	P527	Tatsuo Hayashi
+n02111626	P527	Tatsuo Sakiyama
+n04116744	P527	Tatsuya Nakamura
+n02930766	P527	taxi driver
+n02930766	P527	taximeter
+n07562172	P527	tea
+n04381994	P527	teacup
+n00433802	P527	TeamGym
+n09339810	P527	tectonic plate
+n03446528	P527	teeing ground
+n03098688	P527	telephone network
+n04405907	P527	television channel
+n09875979	P527	television journalist
+n04405907	P527	television network
+n04405907	P527	television set
+n04405907	P527	television station
+n09875786	P527	television station
+n04405907	P527	television watcher
+n04178329	P527	Temple of Artemis
+n04239436	P527	tension element
+n03612965	P527	tensor tympani muscle
+n03098688	P527	terminal
+n09976119	P527	Terry Slesser
+n12396924	P527	tetrahydrocannabinol
+n02111626	P527	Tetsuya Miwa
+n02870092	P527	text
+n04118021	P527	textile
+n04160372	P527	textile
+n09438055	P527	The Alchemist
+n02421449	P527	The Best of Depeche Mode Volume 1
+n04486054	P527	The Betrothal of Maximilian with Mary of Burgundy
+n04486054	P527	The Betrothal of Philip the Fair with Joan of Castile
+n12731401	P527	The Four Trees
+n07582970	P527	The Massacre
+n03438071	P527	The Rebel's albums in chronological order
+n10591811	P527	The Secret Dreamworld of a Shopaholic
+n04486054	P527	The Vienna double wedding
+n07934530	P527	Theaflavin-3,3'-digallate
+n06449735	P527	thermal insulation
+n03849814	P527	thermosetting polymer
+n07719058	P527	thiamine(1+) ion
+n03654826	P527	thigh
+n06453849	P527	Third Epistle of John
+n10498699	P527	third quarter
+n06328022	P527	third-person plural
+n06328022	P527	third-person singular
+n09635973	P527	Thracian
+n12731401	P527	Three Trees in Grey Weather
+n02824448	P527	throttle
+n01329186	P527	tibovirus
+n04440749	P527	tidal bore
+n10421016	P527	Tim Aymar
+n06426865	P527	time
+n04436832	P527	timer
+n07572957	P527	tin can
+n03081660	P527	Tironian notes
+n05449073	P527	Tnfrsf11a
+n05449073	P527	Tnfrsf11b
+n05448149	P527	Tnfrsf11b
+n05449073	P527	Tnfsf11
+n05448149	P527	Tnfsf11
+n01554448	P527	TNT
+n07696839	P527	toast
+n15044016	P527	tobacco
+n09635973	P527	Tocharian
+n04446276	P527	toilet bowl
+n04446276	P527	toilet seat
+n14698884	P527	Tomas Sinickis
+n07591961	P527	tomato
+n07831267	P527	tomato
+n07697100	P527	tomato
+n07808904	P527	tomato
+n07925500	P527	tomato
+n07585758	P527	tomato
+n07592768	P527	tomato
+n07696839	P527	tomato
+n07826250	P527	tomato
+n07833816	P527	tomato
+n07591586	P527	tomato
+n07589543	P527	tomato
+n07835331	P527	tomato purée
+n07873807	P527	tomato sauce
+n09756961	P527	Tomi Koivusaari
+n04010927	P527	Tommy Victor
+n03643737	P527	toner cartridge
+n02916350	P527	Tony Scalzo
+n03099945	P527	tool
+n03624134	P527	tool handle
+n03020692	P527	tool handle
+n03136369	P527	tooth brushing
+n07881205	P527	tortilla
+n02826886	P527	tower
+n04591517	P527	tower
+n04049098	P527	track
+n03431570	P527	traction mechanism
+n03272562	P527	traction motor
+n03748886	P527	trade item
+n04310018	P527	trailing wheel
+n04310018	P527	train whistle
+n00433802	P527	trampoline gymnastics
+n06473168	P527	translation rights
+n04039848	P527	transmitter
+n03768132	P527	transport building or structure
+n04592962	P527	trap room
+n07576781	P527	TRAX
+n04303497	P527	tray
+n04314914	P527	tread
+n05219097	P527	treasury
+n03463832	P527	tree
+n09359803	P527	tree line
+n03463832	P527	treelet
+n09717454	P527	Triestine
+n04086446	P527	trigger
+n03948459	P527	trigger
+n04090263	P527	trigger
+n03915437	P527	trigger
+n06276697	P527	Trish Keenan
+n07863374	P527	Triticum durum
+n10099375	P527	triumvirate
+n11833373	P527	Trond Helge Bårdsen
+n03467517	P527	truss rod
+n15092409	P527	TTPA binds alpha-TOH
+n15092409	P527	TTPA transports alpha-TOH from lysosomal membrane to plasma membrane
+n04376876	P527	tube
+n02381744	P527	Tumppi V?h?-Pesola
+n09690208	P527	Tungusic
+n10616899	P527	Tunisiano
+n06414372	P527	tunnel warfare
+n07696839	P527	turkey meat
+n09690208	P527	Turkic
+n03629100	P527	Turkish Kurdistan
+n07823814	P527	turmeric
+n09657887	P527	Tuscarora people
+n07988716	P527	Tweedledee
+n07988716	P527	Tweedledum
+n10602985	P527	twin sister
+n03061674	P527	two-way radio
+n03612965	P527	tympanic cavity
+n01902132	P527	Type IV Pilin
+n04505470	P527	typewriter key
+n04505036	P527	typewriter key
+n08386365	P527	ultra high-net-worth individual
+n03466839	P527	undercroft
+n03673450	P527	undergarment
+n08401554	P527	underground mine ventilation
+n06422144	P527	understanding
+n06281040	P527	understanding
+n10739881	P527	unit testing
+n08172695	P527	United Kingdom of Great Britain and Northern Ireland
+n04118776	P527	universal law
+n03540595	P527	university hospital
+n03868044	P527	University of Cambridge
+n03868044	P527	University of Oxford
+n10744544	P527	unknown
+n10744544	P527	unknown
+n10744544	P527	unknown
+n04479823	P527	unknown
+n03517899	P527	unknown
+n03894379	P527	unknown
+n13879320	P527	unknown
+n09717454	P527	unknown
+n03467517	P527	unknown
+n02539573	P527	unknown
+n09717454	P527	unknown
+n11675537	P527	unknown
+n09358226	P527	unknown
+n10492627	P527	unknown
+n09717454	P527	unknown
+n03944672	P527	unknown
+n00434075	P527	unknown
+n04355338	P527	unknown
+n04208210	P527	unknown
+n10295951	P527	unknown
+n03924069	P527	unknown
+n01903631	P527	unknown
+n09339810	P527	unknown
+n10292824	P527	unknown
+n03325403	P527	unknown
+n10537906	P527	unknown
+n09717454	P527	unknown
+n09717454	P527	unknown
+n04097527	P527	unknown
+n03481172	P527	unknown
+n03272562	P527	unknown
+n02962200	P527	unknown
+n02962200	P527	unknown
+n02962200	P527	unknown
+n02732072	P527	unknown
+n12731401	P527	unknown
+n12731401	P527	unknown
+n12731401	P527	unknown
+n12731401	P527	unknown
+n04003982	P527	unknown
+n11675537	P527	unknown
+n06545137	P527	unknown
+n02421449	P527	unknown
+n03136369	P527	unknown
+n04004767	P527	unknown
+n10503452	P527	unpaired electron
+n03314028	P527	Unter
+n04433377	P527	uplink
+n02737660	P527	upper arm
+n10357349	P527	upper extremity
+n09747722	P527	Upper German
+n07896765	P527	Upper Moselle
+n03821898	P527	Upper Peninsula of Michigan
+n02690941	P527	upper respiratory tract
+n04219067	P527	Upper Silesia
+n04335886	P527	utility pole
+n09684609	P527	Vaishnavism
+n04544979	P527	Valga
+n04544979	P527	Valka
+n02962200	P527	valve
+n02995151	P527	valve
+n04062179	P527	valve guide
+n04062179	P527	valve seat
+n03573005	P527	valve stem
+n07619004	P527	vanilla
+n07615671	P527	vanilla
+n07615052	P527	vanilla ice cream
+n07983856	P527	Vanir
+n10185327	P527	vascular tissue
+n04284002	P527	vat
+n07806221	P527	vegetable
+n07908923	P527	vegetable
+n07588947	P527	vegetable
+n07587023	P527	vegetable
+n07583197	P527	vegetable
+n07923748	P527	vegetable
+n11752578	P527	vegetable oil
+n07591586	P527	vegetable oil
+n07858484	P527	vegetable oil
+n07873464	P527	vegetable oil
+n00017222	P527	vegetation zone
+n08293490	P527	vehicle
+n02740061	P527	vehicle armor
+n09717454	P527	Venice city dialect
+n02962200	P527	Venturi tube
+n11876976	P527	Věra Bílá
+n04532504	P527	vestryman
+n09635973	P527	Viennese cuisine
+n03196062	P527	viewfinder
+n04555897	P527	Vigils
+n03334382	P527	Vijay Iyer
+n09941089	P527	Ville Friman
+n03318865	P527	Ville Vehviläinen
+n07898617	P527	Vin de paille du Jura
+n07573241	P527	Vince Melouney
+n09792125	P527	Vincent Cavanagh
+n02138777	P527	Vincent Tirel
+n07585758	P527	vinegar
+n07835331	P527	vinegar
+n07833816	P527	vinegar
+n07998323	P527	viola
+n09886220	P527	violence
+n07998323	P527	violin
+n01328702	P527	viral capsid
+n01329935	P527	viral capsid
+n01328702	P527	viral genome
+n14915622	P527	visual rhyme
+n03434943	P527	vocabulary
+n10758713	P527	vocal sound
+n09470550	P527	volcanic rock
+n04540153	P527	volleyball net
+n06593296	P527	volume
+n03467887	P527	Vorkuta Gulag
+n02824448	P527	waist
+n02913152	P527	wall
+n12318378	P527	walnut shell
+n09402944	P527	Walter Schreifels
+n09756961	P527	Waltteri Väyrynen
+n03248835	P527	warp
+n07828987	P527	water
+n12929783	P527	water
+n02732072	P527	water
+n07916437	P527	water
+n07924366	P527	water
+n07834160	P527	water
+n07588574	P527	water
+n07859583	P527	water
+n07886849	P527	water
+n07681450	P527	water
+n07562172	P527	water
+n07890750	P527	water
+n07585758	P527	water
+n07608098	P527	water
+n07682624	P527	water
+n07835331	P527	water
+n07589872	P527	water
+n07890617	P527	water
+n07928367	P527	water
+n04581102	P527	water
+n02995151	P527	water pipe
+n07639069	P527	water security
+n04562935	P527	water tank
+n06256041	P527	watermark
+n04581829	P527	wax
+n04604276	P527	website
+n03248835	P527	weft
+n10374415	P527	wellhead
+n02382750	P527	Welsh cob
+n02382750	P527	Welsh Mountain Pony
+n02382750	P527	Welsh Part-Bred
+n02382750	P527	Welsh Pony (Section B)
+n02382750	P527	Welsh Pony of Cob Type
+n12110778	P527	West Brome
+n09900284	P527	Western Catalan
+n02742753	P527	western classical music
+n02387346	P527	Westfarthing
+n02421449	P527	Wget
+n07690892	P527	wheat
+n07680168	P527	wheat
+n07570021	P527	wheat
+n07863374	P527	wheat flour
+n10278263	P527	wheat flour
+n07625061	P527	wheat flour
+n07687211	P527	wheat flour
+n07693590	P527	wheat flour
+n07681450	P527	wheat flour
+n07682477	P527	wheat flour
+n07871234	P527	wheat flour
+n07686461	P527	wheat flour
+n04536866	P527	wheat gluten
+n07881404	P527	wheat tortilla
+n07881205	P527	wheat tortilla
+n07880968	P527	wheat tortilla
+n02852523	P527	wheel
+n02834778	P527	wheel
+n04576002	P527	wheel
+n04575824	P527	wheel
+n04576211	P527	wheel
+n04572559	P527	wheel and axle
+n07849733	P527	whey protein
+n07616748	P527	whipped cream
+n07617611	P527	whipped cream
+n07876189	P527	white cabbage
+n07808587	P527	white cabbage
+n10053808	P527	white-collar worker
+n03282933	P527	whitework embroidery
+n07683039	P527	whole-wheat flour
+n06278475	P527	Wide Ultra Extended Graphics Array+
+n10082043	P527	wife's father
+n10333317	P527	wife's mother
+n04267091	P527	Wilhelmstadt
+n10331841	P527	Will Rahmer
+n10767837	P527	William J. Tsamis
+n04465358	P527	winch
+n09668729	P527	Winchester metropolitan statistical area
+n04591517	P527	wind turbine blade
+n02913152	P527	window
+n03061674	P527	windshield
+n07591813	P527	wine
+n07932176	P527	wine
+n07914777	P527	wine
+n07591586	P527	wine
+n07831663	P527	wine
+n03595264	P527	wing
+n10183931	P527	Winged Victory
+n03268918	P527	wire
+n10762342	P527	WIT 2011
+n08477511	P527	Wolfenstein 3D
+n07997703	P527	woman
+n09636106	P527	women of color
+n10295951	P527	Wonsu
+n04586932	P527	woodwind instrument
+n03731164	P527	wool
+n07639069	P527	work
+n08242100	P527	work colleague
+n03768132	P527	workshop
+n06008896	P527	x-axis
+n07860447	P527	xylem
+n13096863	P527	xylem
+n04610274	P527	Yagi
+n04610274	P527	Yagi
+n04610274	P527	Yagi
+n10801802	P527	Yakuza
+n10801802	P527	Yakuza: Like a Dragon
+n12778219	P527	yarn
+n07764155	P527	Yasmin Gamliel
+n06008896	P527	y-axis
+n07886849	P527	yeast
+n07890750	P527	yeast
+n07586099	P527	yeast
+n09748408	P527	yeast dough
+n07586099	P527	yeast extract
+n11855553	P527	Yellowfin tuna
+n09813696	P527	Yevgeny Khavtan
+n07849619	P527	yogurt
+n02824448	P527	yoke
+n10602985	P527	younger sister
+n10243872	P527	Yūko Ishibashi
+n10538082	P527	Yunsung
+n10281637	P527	Zakab Khan Manganyar
+n06008896	P527	z-axis
+n12950669	P527	Zea mays
+n07879072	P527	Zea mays Saccharata Group
+n05490983	P527	zona fasciculata
+n05490983	P527	zona glomerulosa
+n05490983	P527	zona reticularis
+n07993109	P527	zoology
+n05217168	P527	zootomy
+n07592768	P527	zucchini
+n04969617	P462	berliner blau
+n09858165	P462	black
+n07744811	P462	black
+n07895710	P462	black
+n07752966	P462	black
+n02106662	P462	black
+n13144794	P462	black
+n07895839	P462	black
+n14880960	P462	black
+n02387093	P462	black
+n07894965	P462	black
+n01695060	P462	black
+n04556408	P462	black
+n02786198	P462	blue
+n07743224	P462	blue
+n01979874	P462	blue
+n12246232	P462	blue
+n11947802	P462	blue
+n02008497	P462	blue
+n13372812	P462	blue
+n02387346	P462	blue
+n02106662	P462	bordeaux
+n12645174	P462	brown
+n07753592	P462	brown
+n07596452	P462	brown
+n07772274	P462	brown
+n07921360	P462	brown
+n12587803	P462	brown
+n07922764	P462	brown
+n07934282	P462	brown
+n07928790	P462	caramel color
+n07922764	P462	chestnut
+n12552309	P462	chestnut
+n02382635	P462	chestnut with flaxen
+n07931612	P462	coffee
+n01646388	P462	color
+n09783369	P462	color
+n09966941	P462	color
+n02252972	P462	color
+n09858299	P462	color
+n09868782	P462	color
+n02584449	P462	color
+n01713508	P462	color
+n03018848	P462	color
+n02312640	P462	color
+n06617011	P462	color
+n07576969	P462	color
+n07772935	P462	color
+n09940818	P462	color
+n10222353	P462	color
+n12544862	P462	color
+n02205219	P462	color
+n06547992	P462	color
+n00453396	P462	color
+n11794519	P462	color
+n10038929	P462	color
+n10057595	P462	color
+n07577144	P462	color
+n03402369	P462	color
+n03974769	P462	color
+n10180791	P462	color
+n06615458	P462	color
+n13805734	P462	color
+n03585551	P462	color
+n10082299	P462	color
+n02288268	P462	color
+n07595368	P462	color
+n10278263	P462	color
+n02595339	P462	color
+n10281896	P462	color
+n10531109	P462	color
+n10345302	P462	color
+n10396727	P462	color
+n09708889	P462	color
+n12383402	P462	color
+n07606538	P462	color
+n10456874	P462	color
+n14814125	P462	color
+n02378870	P462	color
+n08370505	P462	color
+n04060065	P462	color
+n06617644	P462	color
+n02624551	P462	color
+n06617752	P462	color
+n10627252	P462	color
+n04298308	P462	color
+n04304812	P462	color
+n04308397	P462	color
+n04311873	P462	color
+n10660250	P462	color
+n10663858	P462	color
+n10646780	P462	color
+n09439213	P462	color
+n04355933	P462	color
+n04359034	P462	color
+n05282433	P462	color
+n10704712	P462	color
+n10274815	P462	color
+n02090475	P462	color
+n10355942	P462	color
+n13372123	P462	colorless
+n07931612	P462	cream
+n07927931	P462	dark brown
+n01695060	P462	dark green
+n07908411	P462	green
+n07739125	P462	green
+n07764847	P462	green
+n07753592	P462	green
+n07822053	P462	green
+n12435152	P462	green
+n07752966	P462	green
+n07742313	P462	green
+n13144794	P462	green
+n10146416	P462	green
+n14995918	P462	green
+n07811416	P462	green
+n10129133	P462	green
+n07764155	P462	green
+n12708293	P462	green
+n07767847	P462	green
+n07745940	P462	green
+n12132502	P462	green
+n04409515	P462	green
+n03456186	P462	grey
+n02387093	P462	grey
+n01695060	P462	grey
+n04509985	P462	gules
+n04972801	P462	hazel
+n04972801	P462	light brown
+n03632100	P462	lime
+n07772274	P462	maroon
+n02387346	P462	n02381004
+n04964799	P462	n02388917
+n09966941	P462	n02846399
+n10283931	P462	n02846399
+n09857957	P462	n02846399
+n02846399	P462	n02846399
+n07772935	P462	n02846399
+n03115897	P462	n02846399
+n10063919	P462	n02846399
+n10373801	P462	n02846399
+n06617165	P462	n02846399
+n10159289	P462	n02846399
+n10237556	P462	n02846399
+n03688605	P462	n02846399
+n10198437	P462	n02846399
+n09354511	P462	n02846399
+n06596474	P462	n02846399
+n10666752	P462	n02846399
+n10397482	P462	n02846399
+n03912821	P462	n02846399
+n14814125	P462	n02846399
+n04175669	P462	n02846399
+n10585628	P462	n02846399
+n10618234	P462	n02846399
+n10333838	P462	n02846399
+n04284735	P462	n02846399
+n10730728	P462	n02846399
+n04341133	P462	n02846399
+n10682599	P462	n02846399
+n01491361	P462	n02846399
+n07577244	P462	n02846399
+n09641002	P462	n02846399
+n12269652	P462	n02846399
+n09641130	P462	n02846399
+n01813088	P462	n02846399
+n04601291	P462	n02846399
+n07739125	P462	n04962784
+n07753592	P462	n04962784
+n02786198	P462	n04962784
+n04964443	P462	n04962784
+n07924443	P462	n04962784
+n07752966	P462	n04962784
+n03187972	P462	n04962784
+n12401684	P462	n04962784
+n03345487	P462	n04962784
+n13144794	P462	n04962784
+n07744057	P462	n04962784
+n12648196	P462	n04962784
+n11748501	P462	n04962784
+n12345280	P462	n04962784
+n04066270	P462	n04962784
+n07740461	P462	n04962784
+n07892512	P462	n04962784
+n07745940	P462	n04962784
+n07643200	P462	n04962784
+n04409515	P462	n04962784
+n07891726	P462	n04962784
+n12926689	P462	n04966941
+n07739125	P462	n04970916
+n12926689	P462	n04970916
+n07916582	P462	n04970916
+n12345280	P462	n04970916
+n13372812	P462	n04970916
+n07615460	P462	n04970916
+n07891726	P462	n04970916
+n04556408	P462	navy blue
+n07747951	P462	orange
+n07764155	P462	orange
+n07746186	P462	orange
+n07748416	P462	orange
+n04409515	P462	orange
+n07891726	P462	orange
+n07915618	P462	orange-red
+n07931452	P462	orange-red
+n07735510	P462	pumpkin
+n07753592	P462	purple
+n12401684	P462	purple
+n13144794	P462	purple
+n12638218	P462	purple
+n04970059	P462	purple
+n12132502	P462	purple
+n12580654	P462	purple
+n07822053	P462	ral 6003
+n02387346	P462	seal brown
+n07913393	P462	tomato color
+n04970059	P462	violet
+n13145924	P462	white
+n13147532	P462	white
+n12587803	P462	white
+n02413484	P462	white
+n07752966	P462	white
+n14915804	P462	white
+n04952120	P462	white
+n13372123	P462	white
+n03632100	P462	white
+n02413717	P462	white
+n13147689	P462	white
+n07844604	P462	white
+n03770834	P462	white
+n03779128	P462	white
+n07895100	P462	white
+n02134084	P462	white
+n02414442	P462	white
+n13147270	P462	white
+n07895962	P462	white
+n07846688	P462	white
+n11508382	P462	white
+n07760395	P462	white
+n04409515	P462	white
+n07615671	P462	white
+n13147918	P462	white
+n04580126	P462	white
+n07891726	P462	white
+n12580654	P462	wisteria
+n12645174	P462	yellow
+n07739125	P462	yellow
+n07764847	P462	yellow
+n07753592	P462	yellow
+n07921455	P462	yellow
+n12303083	P462	yellow
+n14821852	P462	yellow
+n07740342	P462	yellow
+n03632100	P462	yellow
+n07764155	P462	yellow
+n12421467	P462	yellow
+n12648196	P462	yellow
+n11748501	P462	yellow
+n07767847	P462	yellow
+n07753275	P462	yellow
+n12638218	P462	yellow
+n12345280	P462	yellow
+n02387346	P462	yellow
+n12132502	P462	yellow
+n04409515	P462	yellow
+n12414602	P462	yellow
+
